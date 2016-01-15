@@ -1,0 +1,58 @@
+ranker,pick_overall,team_id,player,college_name,seasons,g,mp,pts,trb,ast,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g,ws,ws_per_48,bpm,vorp
+1,1,HOU,Yao Ming,,8,486,15818,9247,4494,769,.524,.200,.833,32.5,19.0,9.2,1.6,65.9,.200,2.3,17.0
+2,2,CHI,Jay Williams,Duke University,1,75,1961,714,195,350,.399,.322,.640,26.1,9.5,2.6,4.7,0.8,.020,-2.2,-0.1
+3,3,GSW,Mike Dunleavy,Duke University,13,902,25796,10551,4013,2096,.442,.376,.804,28.6,11.7,4.4,2.3,56.1,.104,0.5,15.9
+4,4,MEM,Drew Gooden,University of Kansas,14,771,19982,8610,5582,891,.462,.264,.761,25.9,11.2,7.2,1.2,44.0,.106,-1.5,2.5
+5,5,DEN,Nikoloz Tskitishvili,,4,172,1946,507,307,114,.304,.235,.730,11.3,2.9,1.8,0.7,-1.6,-.039,-6.3,-2.1
+6,6,CLE,Dajuan Wagner,University of Memphis,4,103,2202,964,142,195,.366,.321,.770,21.4,9.4,1.4,1.9,0.0,.000,-5.6,-2.0
+7,7,NYK,Nene Hilario,,14,763,21918,9412,5057,1514,.544,.108,.668,28.7,12.3,6.6,2.0,63.2,.138,2.1,22.9
+8,8,LAC,Chris Wilcox,University of Maryland,11,628,12474,5150,3076,455,.541,.000,.643,19.9,8.2,4.9,0.7,26.9,.103,-1.6,1.2
+9,9,PHO,Amar'e Stoudemire,,14,805,25604,15729,6438,1030,.536,.236,.761,31.8,19.5,8.0,1.3,90.4,.170,0.6,16.5
+10,10,MIA,Caron Butler,University of Connecticut,14,873,28243,12391,4376,2000,.434,.349,.847,32.4,14.2,5.0,2.3,50.7,.086,0.2,15.9
+11,11,WAS,Jared Jeffries,Indiana University,11,629,13579,3003,2563,798,.426,.250,.583,21.6,4.8,4.1,1.3,13.1,.046,-0.9,3.8
+12,12,LAC,Melvin Ely,"California State University, Fresno",9,375,6005,1992,1215,261,.460,.000,.625,16.0,5.3,3.2,0.7,4.0,.032,-3.6,-2.4
+13,13,MIL,Marcus Haislip,University of Tennessee,4,89,854,311,131,16,.437,.350,.659,9.6,3.5,1.5,0.2,0.5,.026,-6.2,-0.9
+14,14,IND,Fred Jones,University of Oregon,7,430,10299,3206,958,990,.411,.353,.809,24.0,7.5,2.2,2.3,16.5,.077,-0.9,2.8
+15,15,HOU,Bostjan Nachbar,,6,317,5628,2252,836,283,.406,.375,.784,17.8,7.1,2.6,0.9,8.7,.074,-2.3,-0.4
+16,16,PHI,Jiri Welsch,,4,247,4596,1519,602,375,.403,.343,.752,18.6,6.1,2.4,1.5,5.7,.059,-2.1,-0.1
+17,17,WAS,Juan Dixon,University of Maryland,7,436,8509,3678,816,775,.413,.341,.833,19.5,8.4,1.9,1.8,6.1,.034,-3.0,-2.1
+18,18,ORL,Curtis Borchardt,Stanford University,2,83,1117,258,278,64,.421,.000,.742,13.5,3.1,3.3,0.8,1.0,.041,-2.4,-0.1
+19,19,UTA,Ryan Humphrey,University of Notre Dame,3,85,772,197,189,18,.344,.000,.539,9.1,2.3,2.2,0.2,-0.4,-.027,-7.6,-1.1
+20,20,TOR,Kareem Rush,University of Missouri,7,346,5956,2213,572,353,.400,.358,.703,17.2,6.4,1.7,1.0,1.7,.013,-4.1,-3.2
+21,21,POR,Qyntel Woods,Northeast Mississippi Community College,4,167,2060,691,385,105,.452,.357,.603,12.3,4.1,2.3,0.6,1.4,.032,-3.0,-0.5
+22,22,PHO,Casey Jacobsen,Stanford University,4,287,5320,1488,516,304,.393,.352,.769,18.5,5.2,1.8,1.1,6.2,.056,-2.3,-0.4
+23,23,DET,Tayshaun Prince,University of Kentucky,14,980,30943,11176,4260,2368,.455,.368,.756,31.6,11.4,4.3,2.4,63.0,.098,0.2,16.9
+24,24,NJN,Nenad Krstic,,7,419,10547,4210,2261,346,.494,.143,.730,25.2,10.0,5.4,0.8,21.5,.098,-2.6,-1.5
+25,25,DEN,Frank Williams,University of Illinois at Urbana-Champaign,3,86,952,253,77,166,.352,.300,.833,11.1,2.9,0.9,1.9,0.1,.003,-5.0,-0.7
+26,26,SAS,John Salmons,University of Miami,13,895,23672,8292,2603,2183,.431,.366,.799,26.4,9.3,2.9,2.4,33.9,.069,-1.0,5.8
+27,27,LAL,Chris Jefferies,"California State University, Fresno",2,72,861,281,88,29,.383,.365,.667,12.0,3.9,1.2,0.4,-0.5,-.030,-6.3,-0.9
+28,28,SAC,Dan Dickau,Gonzaga University,6,300,4617,1745,405,752,.401,.341,.831,15.4,5.8,1.4,2.5,5.9,.061,-2.3,-0.4
+29,29,GSW,Steve Logan,University of Cincinnati,,,,,,,,,,,,,,,,,
+30,30,CHI,Roger Mason,University of Virginia,10,518,9147,3289,897,677,.408,.383,.866,17.7,6.3,1.7,1.3,13.0,.068,-1.8,0.5
+31,31,MEM,Robert Archibald,University of Illinois at Urbana-Champaign,2,44,328,51,69,16,.283,,.429,7.5,1.2,1.6,0.4,0.0,-.004,-5.0,-0.2
+32,32,DEN,Vincent Yarbrough,University of Tennessee,1,59,1381,406,162,130,.393,.269,.790,23.4,6.9,2.7,2.2,1.0,.035,-2.4,-0.1
+33,33,MIL,Dan Gadzuric,"University of California, Los Angeles",10,527,7793,2465,2326,196,.500,.000,.498,14.8,4.7,4.4,0.4,15.8,.097,-1.3,1.3
+34,34,CLE,Carlos Boozer,Duke University,13,861,26901,13976,8192,1928,.521,.071,.722,31.2,16.2,9.5,2.2,80.3,.143,1.2,22.1
+35,35,NYK,Milos Vujanic,,,,,,,,,,,,,,,,,,
+36,36,ATL,David Andersen,,2,103,1264,501,292,57,.440,.347,.674,12.3,4.9,2.8,0.6,1.5,.059,-4.2,-0.7
+37,37,HOU,Tito Maddox,"California State University, Fresno",1,9,35,11,7,5,.250,.000,.625,3.9,1.2,0.8,0.6,0.0,-.011,-2.2,0.0
+38,38,WAS,Rod Grizzard,University of Alabama,,,,,,,,,,,,,,,,,
+39,39,WAS,Juan Carlos Navarro,,1,82,2117,896,210,177,.402,.361,.849,25.8,10.9,2.6,2.2,1.4,.031,-2.3,-0.1
+40,40,LAC,Mario Kasun,,2,73,569,198,188,11,.467,.000,.636,7.8,2.7,2.6,0.2,0.8,.069,-5.9,-0.6
+41,41,MIL,Ronald Murray,Shaw University,8,487,11077,4817,1006,1096,.414,.304,.725,22.7,9.9,2.1,2.3,8.5,.037,-2.9,-2.6
+42,42,POR,Jason Jennings,Arkansas State University,,,,,,,,,,,,,,,,,
+43,43,CHI,Lonny Baxter,University of Maryland,4,162,1884,637,477,40,.466,.200,.657,11.6,3.9,2.9,0.2,2.9,.075,-5.1,-1.5
+44,44,PHI,Sam Clancy,University of Southern California,,,,,,,,,,,,,,,,,
+45,45,MEM,Matt Barnes,"University of California, Los Angeles",13,816,18969,6630,3667,1389,.445,.336,.738,23.2,8.1,4.5,1.7,39.9,.101,1.2,15.5
+46,46,UTA,Jamal Sampson,University of California,5,72,631,142,242,26,.491,.000,.537,8.8,2.0,3.4,0.4,1.4,.106,-2.1,0.0
+47,47,MIL,Chris Owens,University of Texas at Austin,1,1,6,4,1,0,.667,,,6.0,4.0,1.0,0.0,0.0,-.032,-10.7,0.0
+48,48,SEA,Peter Fehse,,,,,,,,,,,,,,,,,,
+49,49,BOS,Darius Songaila,Wake Forest University,8,495,9229,3415,1689,589,.499,.158,.844,18.6,6.9,3.4,1.2,15.9,.083,-1.7,0.7
+50,50,POR,Federico Kammerichs,,,,,,,,,,,,,,,,,,
+51,51,MIN,Marcus Taylor,Michigan State University,,,,,,,,,,,,,,,,,
+52,52,MIA,Rasual Butler,La Salle University,13,788,17010,6027,1908,647,.402,.362,.747,21.6,7.6,2.4,0.8,20.0,.056,-2.2,-0.6
+53,53,NJN,Tamar Slay,Marshall University,3,66,517,173,70,31,.361,.265,.538,7.8,2.6,1.1,0.5,-0.3,-.029,-6.0,-0.5
+54,54,DAL,Mladen Sekularac,,,,,,,,,,,,,,,,,,
+55,55,SAS,Luis Scola,,9,670,17832,8425,4672,1125,.495,.287,.743,26.6,12.6,7.0,1.7,43.6,.117,-0.5,6.9
+56,56,SAS,Randy Holcomb,San Diego State University,1,4,11,2,1,0,1.000,,,2.8,0.5,0.3,0.0,0.0,.150,-1.8,0.0
+57,57,SAC,Corsley Edwards,Central Connecticut State University,1,10,110,27,25,3,.323,,.583,11.0,2.7,2.5,0.3,0.1,.026,-5.2,-0.1

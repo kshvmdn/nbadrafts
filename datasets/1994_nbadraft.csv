@@ -1,0 +1,55 @@
+ranker,pick_overall,team_id,player,college_name,seasons,g,mp,pts,trb,ast,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g,ws,ws_per_48,bpm,vorp
+1,1,MIL,Glenn Robinson,Purdue University,11,688,25346,14234,4189,1879,.459,.340,.820,36.8,20.7,6.1,2.7,39.8,.075,-0.4,10.3
+2,2,DAL,Jason Kidd,University of California,19,1391,50111,17529,8725,12091,.400,.349,.785,36.0,12.6,6.3,8.7,138.6,.133,4.2,78.2
+3,3,DET,Grant Hill,Duke University,18,1026,34776,17137,6169,4252,.483,.314,.769,33.9,16.7,6.0,4.1,99.9,.138,2.8,42.5
+4,4,MIN,Donyell Marshall,University of Connecticut,15,957,25027,10716,6376,1305,.435,.350,.731,26.2,11.2,6.7,1.4,59.0,.113,1.0,19.1
+5,5,WSB,Juwan Howard,University of Michigan,19,1208,36654,16159,7428,2663,.469,.120,.764,30.3,13.4,6.1,2.2,59.4,.078,-0.9,10.1
+6,6,PHI,Sharone Wright,Clemson University,4,203,4531,1974,1023,118,.456,.083,.618,22.3,9.7,5.0,0.6,1.4,.015,-5.6,-4.1
+7,7,LAC,Lamond Murray,University of California,11,736,18477,8286,3033,978,.430,.360,.759,25.1,11.3,4.1,1.3,19.8,.052,-1.7,1.4
+8,8,SAC,Brian Grant,Xavier University,12,756,21417,7933,5622,923,.490,.214,.746,28.3,10.5,7.4,1.2,54.5,.122,-0.1,10.4
+9,9,BOS,Eric Montross,University of North Carolina,8,465,8479,2071,2159,207,.490,.000,.478,18.2,4.5,4.6,0.4,8.5,.048,-3.4,-3.0
+10,10,LAL,Eddie Jones,Temple University,14,954,32778,14155,3857,2812,.437,.373,.809,34.4,14.8,4.0,2.9,100.6,.147,3.5,45.1
+11,11,SEA,Carlos Rogers,Tennessee State University,8,298,5654,2196,1272,182,.536,.258,.562,19.0,7.4,4.3,0.6,11.1,.095,-1.8,0.2
+12,12,MIA,Khalid Reeves,University of Arizona,6,277,5837,2167,580,886,.416,.363,.744,21.1,7.8,2.1,3.2,8.4,.069,-1.6,0.6
+13,13,DEN,Jalen Rose,University of Michigan,13,923,27925,13220,3193,3527,.443,.355,.801,30.3,14.3,3.5,3.8,47.2,.081,-0.3,11.9
+14,14,NJN,Yinka Dare,George Washington University,4,110,1002,233,281,4,.396,,.570,9.1,2.1,2.6,0.0,-0.7,-.033,-9.8,-2.0
+15,15,IND,Eric Piatkowski,University of Nebraska,14,789,14613,5919,1716,778,.434,.399,.839,18.5,7.5,2.2,1.0,31.0,.102,-0.5,5.5
+16,16,GSW,Clifford Rozier,University of Louisville,4,173,2984,827,897,98,.496,.182,.465,17.2,4.8,5.2,0.6,3.9,.063,-2.1,-0.1
+17,17,POR,Aaron McKie,Temple University,13,793,19156,5871,2587,2126,.438,.350,.779,24.2,7.4,3.3,2.7,40.0,.100,0.7,12.9
+18,18,MIL,Eric Mobley,University of Pittsburgh,3,113,1570,440,351,57,.541,.750,.475,13.9,3.9,3.1,0.5,1.1,.034,-4.0,-0.8
+19,19,DAL,Tony Dumas,University of Missouri-Kansas City,4,156,2222,1140,198,186,.404,.327,.608,14.2,7.3,1.3,1.2,1.3,.027,-4.8,-1.6
+20,20,PHI,B.J. Tyler,University of Texas at Austin,1,55,809,195,62,174,.381,.314,.700,14.7,3.5,1.1,3.2,-0.7,-.039,-7.2,-1.1
+21,21,CHI,Dickey Simpkins,Providence College,7,327,5201,1388,1187,305,.440,.222,.618,15.9,4.2,3.6,0.9,4.7,.044,-3.8,-2.3
+22,22,SAS,Bill Curley,Boston College,5,147,1614,394,290,60,.444,.222,.743,11.0,2.7,2.0,0.4,1.6,.047,-3.6,-0.6
+23,23,PHO,Wesley Person,Auburn University,11,733,20727,8192,2402,1234,.457,.418,.778,28.3,11.2,3.3,1.7,44.0,.102,0.6,13.8
+24,24,NYK,Monty Williams,University of Notre Dame,9,456,7624,2884,1296,544,.481,.111,.665,16.7,6.3,2.8,1.2,11.4,.072,-1.8,0.5
+25,25,LAC,Greg Minor,University of Louisville,5,277,5144,1902,741,384,.478,.226,.767,18.6,6.9,2.7,1.4,8.2,.077,-2.2,-0.3
+26,26,NYK,Charlie Ward,Florida State University,11,630,14080,3947,1648,2539,.408,.364,.771,22.3,6.3,2.6,4.0,33.0,.113,1.8,13.3
+27,27,ORL,Brooks Thompson,Oklahoma State University,4,168,1714,760,158,281,.409,.376,.647,10.2,4.5,0.9,1.7,2.0,.057,-1.7,0.1
+28,28,DAL,Deon Thomas,University of Illinois at Urbana-Champaign,,,,,,,,,,,,,,,,,
+29,29,PHO,Antonio Lang,Duke University,6,143,1395,329,210,50,.455,.000,.719,9.8,2.3,1.5,0.3,1.7,.057,-2.8,-0.3
+30,30,MIN,Howard Eisley,Boston College,12,786,16013,5116,1324,2748,.407,.350,.827,20.4,6.5,1.7,3.5,19.5,.058,-2.2,-1.0
+31,31,ORL,Rodney Dent,University of Kentucky,,,,,,,,,,,,,,,,,
+32,32,WSB,Jim McIlvaine,Marquette University,7,401,5927,1072,1243,105,.446,.100,.551,14.8,2.7,3.1,0.3,9.4,.076,-0.1,2.8
+33,33,PHI,Derrick Alston,Duquesne University,3,139,2657,751,525,94,.489,.143,.487,19.1,5.4,3.8,0.7,2.6,.047,-2.1,-0.1
+34,34,ATL,Gaylon Nickerson,Northwestern Oklahoma State University,1,4,42,15,5,1,.333,.000,1.000,10.5,3.8,1.3,0.3,0.1,.076,-7.0,-0.1
+35,35,SAC,Michael Smith,Providence College,7,449,10552,2527,3193,661,.538,.143,.529,23.5,5.6,7.1,1.5,23.4,.107,1.3,8.7
+36,36,BOS,Andrei Fetisov,,,,,,,,,,,,,,,,,,
+37,37,SEA,Dontonio Wingfield,University of Cincinnati,4,114,1146,423,275,76,.389,.309,.721,10.1,3.7,2.4,0.7,1.8,.074,-1.4,0.2
+38,38,CHH,Darrin Hancock,University of Kansas,3,133,1395,467,169,89,.530,.333,.579,10.5,3.5,1.3,0.7,1.1,.038,-3.4,-0.5
+39,39,GSW,Anthony Miller,Michigan State University,8,181,1637,510,488,66,.510,.250,.576,9.0,2.8,2.7,0.4,3.8,.110,-2.4,-0.2
+40,40,MIA,Jeff Webster,University of Oklahoma,1,11,58,18,7,3,.348,.333,,5.3,1.6,0.6,0.3,0.0,-.030,-5.8,-0.1
+41,41,IND,William Njoku,,,,,,,,,,,,,,,,,,
+42,42,CLE,Gary Collier,University of Tulsa,,,,,,,,,,,,,,,,,
+43,43,POR,Shawnelle Scott,St. John's University,4,105,634,189,228,20,.464,,.465,6.0,1.8,2.2,0.2,1.3,.101,-3.1,-0.2
+44,44,IND,Damon Bailey,Indiana University,,,,,,,,,,,,,,,,,
+45,45,GSW,Dwayne Morton,University of Louisville,1,41,395,167,58,18,.388,.360,.682,9.6,4.1,1.4,0.4,0.2,.025,-5.1,-0.3
+46,46,MIL,Voshon Lenard,University of Minnesota,11,565,15349,6745,1609,1180,.415,.384,.787,27.2,11.9,2.8,2.1,29.6,.093,-0.3,6.7
+47,47,UTA,Jamie Watson,University of South Carolina,4,102,1248,323,149,117,.468,.316,.694,12.2,3.2,1.5,1.1,1.2,.045,-1.0,0.3
+48,48,DET,Jevon Crudup,University of Missouri,,,,,,,,,,,,,,,,,
+49,49,CHI,Kris Bruton,Benedict College,,,,,,,,,,,,,,,,,
+50,50,PHO,Charles Claxton,University of Georgia,1,3,7,2,2,0,.500,,.000,2.3,0.7,0.7,0.0,0.0,-.179,-11.1,0.0
+51,51,SAC,Lawrence Funderburke,Ohio State University,7,318,4726,2031,1142,183,.506,.118,.675,14.9,6.4,3.6,0.6,12.9,.131,-2.2,-0.2
+52,52,PHO,Anthony Goldwire,University of Houston,8,266,4951,1667,359,737,.407,.386,.792,18.6,6.3,1.3,2.8,6.4,.062,-3.3,-1.6
+53,53,HOU,Albert Burditt,University of Texas at Austin,,,,,,,,,,,,,,,,,
+54,54,SEA,Zeljko Rebraca,,5,215,3280,1276,688,88,.527,,.792,15.3,5.9,3.2,0.4,8.3,.121,-2.5,-0.4

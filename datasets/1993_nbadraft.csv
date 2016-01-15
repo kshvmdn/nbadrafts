@@ -1,0 +1,55 @@
+ranker,pick_overall,team_id,player,college_name,seasons,g,mp,pts,trb,ast,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g,ws,ws_per_48,bpm,vorp
+1,1,ORL,Chris Webber,University of Michigan,15,831,30847,17182,8124,3526,.479,.299,.649,37.1,20.7,9.8,4.2,84.7,.132,3.9,45.9
+2,2,PHI,Shawn Bradley,Brigham Young University,12,832,19531,6752,5268,573,.457,.103,.716,23.5,8.1,6.3,0.7,40.7,.100,0.5,12.3
+3,3,GSW,Anfernee Hardaway,University of Memphis,14,704,23711,10684,3146,3525,.458,.316,.774,33.7,15.2,4.5,5.0,61.9,.125,2.6,27.2
+4,4,DAL,Jamal Mashburn,University of Kentucky,11,611,22762,11644,3271,2414,.418,.345,.766,37.3,19.1,5.4,4.0,43.7,.092,0.2,12.9
+5,5,MIN,Isaiah Rider,"University of Nevada, Las Vegas",9,563,17851,9405,2166,1535,.443,.352,.812,31.7,16.7,3.8,2.7,22.8,.061,-1.2,3.6
+6,6,WSB,Calbert Cheaney,Indiana University,13,825,22007,7826,2610,1398,.466,.298,.691,26.7,9.5,3.2,1.7,23.1,.050,-2.1,-0.7
+7,7,SAC,Bobby Hurley,Duke University,5,269,4170,1032,283,880,.353,.272,.769,15.5,3.8,1.1,3.3,-1.2,-.014,-7.5,-5.8
+8,8,MIL,Vin Baker,University of Hartford,13,791,25737,11839,5867,1509,.485,.215,.638,32.5,15.0,7.4,1.9,47.0,.088,-0.4,10.4
+9,9,DEN,Rodney Rogers,Wake Forest University,12,866,21873,9468,3881,1722,.451,.347,.690,25.3,10.9,4.5,2.0,38.8,.085,0.5,13.8
+10,10,DET,Lindsey Hunter,Jackson State University,17,937,23253,7956,2021,2506,.388,.360,.746,24.8,8.5,2.2,2.7,32.9,.068,-0.4,9.5
+11,11,DET,Allan Houston,University of Tennessee,12,839,28311,14551,2434,1990,.444,.402,.863,33.7,17.3,2.9,2.4,55.3,.094,-0.6,9.9
+12,12,LAL,George Lynch,University of North Carolina,12,774,17683,5109,3902,1121,.446,.306,.652,22.8,6.6,5.0,1.4,32.3,.088,0.6,11.5
+13,13,LAC,Terry Dehere,Seton Hall University,6,402,7305,3235,588,1034,.411,.378,.779,18.2,8.0,1.5,2.6,7.3,.048,-3.4,-2.6
+14,14,IND,Scott Haskin,Oregon State University,1,27,186,55,55,6,.467,,.684,6.9,2.0,2.0,0.2,0.3,.087,-2.9,0.0
+15,15,ATL,Doug Edwards,Florida State University,3,85,838,203,153,60,.378,.000,.709,9.9,2.4,1.8,0.7,0.2,.013,-4.6,-0.6
+16,16,NJN,Rex Walters,University of Kansas,7,335,4602,1547,403,569,.441,.361,.809,13.7,4.6,1.2,1.7,6.3,.066,-3.3,-1.5
+17,17,CHH,Greg Graham,Indiana University,5,207,2530,938,219,201,.407,.290,.775,12.2,4.5,1.1,1.0,1.3,.025,-4.4,-1.6
+18,18,UTA,Luther Wright,Seton Hall University,1,15,92,19,10,0,.348,.000,.750,6.1,1.3,0.7,0.0,-0.1,-.064,-10.1,-0.2
+19,19,BOS,Acie Earl,University of Iowa,4,193,2512,980,517,61,.403,.000,.667,13.0,5.1,2.7,0.3,0.3,.005,-6.9,-3.1
+20,20,CHH,Scott Burrell,University of Connecticut,8,383,7592,2647,1332,527,.418,.373,.723,19.8,6.9,3.5,1.4,16.4,.104,1.2,6.1
+21,21,POR,James Robinson,University of Alabama,7,381,6935,2882,660,715,.394,.348,.666,18.2,7.6,1.7,1.9,5.8,.040,-2.7,-1.2
+22,22,CLE,Chris Mills,University of Arizona,10,568,17282,6357,2808,1063,.432,.351,.817,30.4,11.2,4.9,1.9,37.7,.105,0.0,8.8
+23,23,SEA,Ervin Johnson,University of New Orleans,13,845,16989,3473,5148,387,.505,.200,.605,20.1,4.1,6.1,0.5,37.8,.107,0.0,8.7
+24,24,HOU,Sam Cassell,Florida State University,15,993,29812,15635,3221,5939,.454,.331,.861,30.0,15.7,3.2,6.0,87.5,.141,1.4,25.4
+25,25,CHI,Corie Blount,University of Cincinnati,11,644,9925,2287,2690,460,.471,.115,.587,15.4,3.6,4.2,0.7,18.2,.088,-1.0,2.4
+26,26,ORL,Geert Hammink,Louisiana State University,3,8,27,14,7,2,.400,,.667,3.4,1.8,0.9,0.3,0.1,.089,-8.4,0.0
+27,27,PHO,Malcolm Mackey,Georgia Institute of Technology,1,22,69,32,24,1,.378,.000,.500,3.1,1.5,1.1,0.0,0.1,.036,-10.7,-0.2
+28,28,DAL,Lucious Harris,"California State University, Long Beach",12,800,15701,5784,1864,1130,.426,.348,.790,19.6,7.2,2.3,1.4,28.7,.088,-1.9,0.5
+29,29,MIN,Sherron Mills,Virginia Commonwealth University,,,,,,,,,,,,,,,,,
+30,30,WSB,Gheorghe Muresan,,6,307,6729,3020,1957,150,.573,.000,.644,21.9,9.8,6.4,0.5,19.0,.136,-0.5,2.5
+31,31,SAC,Evers Burns,University of Maryland,1,23,143,56,30,9,.400,,.522,6.2,2.4,1.3,0.4,0.1,.020,-4.8,-0.1
+32,32,PHI,Alphonso Ford,Mississippi Valley State University,2,11,114,35,20,10,.308,.100,.500,10.4,3.2,1.8,0.9,-0.4,-.153,-9.9,-0.2
+33,33,DAL,Eric Riley,University of Michigan,5,186,1844,574,479,60,.456,.000,.704,9.9,3.1,2.6,0.3,2.5,.066,-3.0,-0.5
+34,34,GSW,Darnell Mee,Western Kentucky University,2,40,293,76,36,18,.312,.222,.444,7.3,1.9,0.9,0.5,-0.1,-.020,-3.6,-0.1
+35,35,MIA,Ed Stokes,University of Arizona,1,4,17,3,4,1,.333,,.500,4.3,0.8,1.0,0.3,0.0,-.077,-5.4,0.0
+36,36,NJN,John Best,Tennessee Technological University,,,,,,,,,,,,,,,,,
+37,37,LAL,Nick Van Exel,University of Cincinnati,13,880,28969,12658,2545,5777,.405,.357,.794,32.9,14.4,2.9,6.6,55.9,.093,-0.4,11.4
+38,38,WSB,Conrad McRae,Syracuse University,,,,,,,,,,,,,,,,,
+39,39,IND,Thomas Hill,Duke University,,,,,,,,,,,,,,,,,
+40,40,ATL,Rich Manning,University of Washington,2,55,512,182,94,10,.415,.400,.643,9.3,3.3,1.7,0.2,-0.3,-.028,-10.0,-1.0
+41,41,CHI,Anthony Reed,Tulane University,,,,,,,,,,,,,,,,,
+42,42,SEA,Adonis Jordan,University of Kansas,2,10,97,21,6,22,.296,.250,.500,9.7,2.1,0.6,2.2,0.0,-.015,-7.7,-0.1
+43,43,DEN,Josh Grant,University of Utah,1,53,382,157,89,24,.404,.279,.759,7.2,3.0,1.7,0.5,0.5,.060,-2.8,-0.1
+44,44,SAC,Alex Holcombe,Baylor University,,,,,,,,,,,,,,,,,
+45,45,UTA,Bryon Russell,"California State University, Long Beach",13,841,19805,6663,2914,1085,.431,.369,.750,23.5,7.9,3.5,1.3,47.4,.115,1.7,18.5
+46,46,HOU,Richard Petruska,"University of California, Los Angeles",1,22,92,53,31,1,.435,.467,.750,4.2,2.4,1.4,0.0,0.0,-.014,-10.8,-0.2
+47,47,SAS,Chris Whitney,Clemson University,11,579,10052,3738,815,1613,.395,.361,.875,17.4,6.5,1.4,2.8,21.2,.101,-1.2,2.0
+48,48,POR,Kevin Thompson,North Carolina State University,1,14,58,13,13,3,.429,.000,.500,4.1,0.9,0.9,0.2,0.0,-.016,-5.6,-0.1
+49,49,PHO,Mark Buford,Mississippi Valley State University,,,,,,,,,,,,,,,,,
+50,50,HOU,Marcelo Nicola,,,,,,,,,,,,,,,,,,
+51,51,IND,Spencer Dunkley,University of Delaware,,,,,,,,,,,,,,,,,
+52,52,SAC,Mike Peplowski,Michigan State University,3,68,705,194,176,26,.556,.000,.531,10.4,2.9,2.6,0.4,1.0,.067,-2.9,-0.2
+53,53,LAC,Leonard White,Southern University and A&M College,,,,,,,,,,,,,,,,,
+54,54,PHO,Byron Wilson,University of Utah,,,,,,,,,,,,,,,,,

@@ -1,0 +1,61 @@
+ranker,pick_overall,team_id,player,college_name,seasons,g,mp,pts,trb,ast,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g,ws,ws_per_48,bpm,vorp
+1,1,CLE,Andrew Wiggins,University of Kansas,2,121,4329,2198,522,238,.437,.286,.748,35.8,18.2,4.3,2.0,3.7,.041,-2.4,-0.4
+2,2,MIL,Jabari Parker,Duke University,2,60,1674,705,290,84,.484,.190,.753,27.9,11.8,4.8,1.4,2.7,.078,-2.2,-0.1
+3,3,PHI,Joel Embiid,University of Kansas,,,,,,,,,,,,,,,,,
+4,4,ORL,Aaron Gordon,University of Arizona,2,84,1513,506,353,76,.465,.309,.709,18.0,6.0,4.2,0.9,3.3,.105,-0.5,0.6
+5,5,UTA,Dante Exum,,1,82,1817,393,131,198,.349,.314,.625,22.2,4.8,1.6,2.4,-0.1,-.003,-3.8,-0.8
+6,6,BOS,Marcus Smart,Oklahoma State University,2,85,2277,666,293,257,.352,.309,.657,26.8,7.8,3.4,3.0,3.4,.072,0.9,1.6
+7,7,LAL,Julius Randle,University of Kentucky,2,40,1042,414,370,64,.402,.278,.674,26.1,10.4,9.3,1.6,0.4,.017,-4.5,-0.7
+8,8,SAC,Nik Stauskas,University of Michigan,2,110,1986,579,176,131,.360,.317,.782,18.1,5.3,1.6,1.2,0.2,.006,-3.9,-1.0
+9,9,CHH,Noah Vonleh,Indiana University,2,66,892,210,241,26,.391,.258,.769,13.5,3.2,3.7,0.4,1.1,.058,-3.8,-0.4
+10,10,PHI,Elfrid Payton,University of Louisiana at Lafayette,2,116,3488,1104,471,733,.423,.286,.579,30.1,9.5,4.1,6.3,3.6,.049,-0.8,1.1
+11,11,DEN,Doug McDermott,Creighton University,2,72,1064,396,122,30,.427,.401,.742,14.8,5.5,1.7,0.4,1.1,.048,-4.5,-0.7
+12,12,ORL,Dario Saric,,,,,,,,,,,,,,,,,,
+13,13,MIN,Zach LaVine,"University of California, Los Angeles",2,117,2835,1274,339,402,.418,.332,.840,24.2,10.9,2.9,3.4,-0.2,-.004,-3.8,-1.3
+14,14,PHO,T.J. Warren,North Carolina State University,2,79,1522,685,217,61,.508,.358,.740,19.3,8.7,2.7,0.8,3.2,.101,-1.4,0.2
+15,15,ATL,Adreian Payne,Michigan State University,2,60,1014,287,222,43,.406,.300,.667,16.9,4.8,3.7,0.7,-0.6,-.027,-5.5,-0.9
+16,16,CHI,Jusuf Nurkic,,2,68,1192,477,419,53,.435,.000,.627,17.5,7.0,6.2,0.8,1.7,.067,-1.1,0.3
+17,17,BOS,James Young,University of Kentucky,2,47,483,126,62,20,.341,.244,.515,10.3,2.7,1.3,0.4,0.4,.038,-3.9,-0.2
+18,18,PHO,Tyler Ennis,Syracuse University,2,49,584,176,53,90,.374,.286,.706,11.9,3.6,1.1,1.8,-0.5,-.039,-6.9,-0.7
+19,19,CHI,Gary Harris,Michigan State University,2,88,1714,546,152,87,.393,.293,.755,19.5,6.2,1.7,1.0,0.5,.013,-2.3,-0.1
+20,20,TOR,Bruno Caboclo,,2,10,25,10,3,0,.308,.667,,2.5,1.0,0.3,0.0,-0.2,-.321,-19.4,-0.1
+21,21,OKC,Mitch McGary,University of Michigan,2,42,530,211,177,16,.526,.000,.604,12.6,5.0,4.2,0.4,1.2,.109,-3.1,-0.1
+22,22,MEM,Jordan Adams,"University of California, Los Angeles",2,32,263,101,30,19,.402,.385,.607,8.2,3.2,0.9,0.6,0.4,.071,-0.4,0.1
+23,23,UTA,Rodney Hood,Duke University,2,86,2147,905,225,178,.414,.353,.819,25.0,10.5,2.6,2.1,4.4,.097,-0.5,0.8
+24,24,CHH,Shabazz Napier,University of Connecticut,2,84,1416,399,146,197,.364,.344,.793,16.9,4.8,1.7,2.3,0.6,.019,-3.3,-0.5
+25,25,HOU,Clint Capela,,2,51,936,319,312,34,.567,,.398,18.4,6.3,6.1,0.7,2.5,.130,0.6,0.6
+26,26,MIA,P.J. Hairston,University of North Carolina,2,80,1356,463,183,44,.333,.311,.851,17.0,5.8,2.3,0.6,0.9,.033,-3.3,-0.5
+27,27,PHO,Bogdan Bogdanovic,,,,,,,,,,,,,,,,,,
+28,28,LAC,C.J. Wilcox,University of Washington,2,23,104,41,7,9,.400,.368,1.000,4.5,1.8,0.3,0.4,-0.1,-.040,-6.8,-0.1
+29,29,OKC,Josh Huestis,Stanford University,,,,,,,,,,,,,,,,,
+30,30,SAS,Kyle Anderson,"University of California, Los Angeles",2,70,804,200,152,66,.427,.304,.673,11.5,2.9,2.2,0.9,1.7,.103,-0.5,0.3
+31,31,MIL,Damien Inglis,,1,8,42,8,9,2,.250,.200,.750,5.3,1.0,1.1,0.3,-0.1,-.081,-8.1,-0.1
+32,32,PHI,K.J. McDaniels,Clemson University,2,73,1400,504,209,73,.392,.287,.746,19.2,6.9,2.9,1.0,0.5,.017,-2.9,-0.3
+33,33,CLE,Joe Harris,University of Virginia,2,56,508,139,44,28,.395,.364,.600,9.1,2.5,0.8,0.5,0.2,.017,-4.6,-0.3
+34,34,NYK,Cleanthony Early,Wichita State University,2,49,681,217,99,37,.359,.261,.750,13.9,4.4,2.0,0.8,-0.4,-.026,-5.0,-0.5
+35,35,UTA,Jarnell Stokes,University of Tennessee,2,21,130,57,36,4,.568,,.536,6.2,2.7,1.7,0.2,0.5,.185,0.2,0.1
+36,36,MIL,Johnny O'Bryant III,Louisiana State University,2,71,907,231,176,41,.402,1.000,.552,12.8,3.3,2.5,0.6,-0.2,-.010,-6.3,-1.0
+37,37,TOR,DeAndre Daniels,University of Connecticut,,,,,,,,,,,,,,,,,
+38,38,DET,Spencer Dinwiddie,University of Colorado,2,43,566,185,57,117,.320,.181,.792,13.2,4.3,1.3,2.7,0.2,.020,-4.3,-0.3
+39,39,PHI,Jerami Grant,Syracuse University,2,105,2411,766,380,131,.384,.276,.626,23.0,7.3,3.6,1.2,1.6,.033,-2.4,-0.2
+40,40,MIN,Glenn Robinson III,University of Michigan,2,59,525,167,80,22,.437,.308,.646,8.9,2.8,1.4,0.4,0.7,.061,-4.2,-0.3
+41,41,DEN,Nikola Jokic,,1,37,692,314,205,58,.542,.364,.779,18.7,8.5,5.5,1.6,2.4,.166,3.2,0.9
+42,42,HOU,Nick Johnson,University of Arizona,1,28,262,74,39,11,.347,.238,.680,9.4,2.6,1.4,0.4,-0.1,-.020,-7.3,-0.3
+43,43,ATL,Walter Tavares,,1,7,54,19,15,1,.533,,.375,7.7,2.7,2.1,0.1,0.1,.057,-4.8,0.0
+44,44,MIN,Markel Brown,Oklahoma State University,2,69,1017,273,130,56,.343,.247,.797,14.7,4.0,1.9,0.8,0.3,.015,-3.5,-0.4
+45,45,CHH,Dwight Powell,Stanford University,2,67,922,366,253,39,.482,.167,.727,13.8,5.5,3.8,0.6,2.8,.144,-0.3,0.4
+46,46,WAS,Jordan Clarkson,University of Missouri,2,97,2707,1278,337,300,.444,.322,.816,27.9,13.2,3.5,3.1,3.5,.062,-0.9,0.7
+47,47,PHI,Russ Smith,University of Louisville,2,27,131,53,15,19,.319,.188,.769,4.9,2.0,0.6,0.7,-0.2,-.064,-6.2,-0.1
+48,48,MIL,Lamar Patterson,University of Pittsburgh,1,29,371,77,49,37,.366,.256,.700,12.8,2.7,1.7,1.3,0.1,.017,-4.9,-0.3
+49,49,CHI,Cameron Bairstow,University of New Mexico,2,26,94,18,18,1,.250,.000,.800,3.6,0.7,0.7,0.0,-0.1,-.048,-10.3,-0.2
+50,50,PHO,Alec Brown,University of Wisconsin-Green Bay,,,,,,,,,,,,,,,,,
+51,51,NYK,Thanasis Antetokounmpo,,,,,,,,,,,,,,,,,,
+52,52,PHI,Vasilije Micic,,,,,,,,,,,,,,,,,,
+53,53,MIN,Alessandro Gentile,,,,,,,,,,,,,,,,,,
+54,54,PHI,Nemanja Dangubic,,,,,,,,,,,,,,,,,,
+55,55,MIA,Semaj Christon,Xavier University,,,,,,,,,,,,,,,,,
+56,56,DEN,Roy Devyn Marble,University of Iowa,2,22,222,39,33,17,.306,.167,.294,10.1,1.8,1.5,0.8,-0.2,-.047,-5.3,-0.2
+57,57,IND,Louis Labeyrie,,,,,,,,,,,,,,,,,,
+58,58,SAS,Jordan McRae,University of Tennessee,,,,,,,,,,,,,,,,,
+59,59,TOR,Xavier Thames,San Diego State University,,,,,,,,,,,,,,,,,
+60,60,SAS,Cory Jefferson,Baylor University,2,56,559,195,155,16,.453,.125,.554,10.0,3.5,2.8,0.3,0.8,.070,-4.3,-0.3

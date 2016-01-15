@@ -1,0 +1,55 @@
+ranker,pick_overall,team_id,player,college_name,seasons,g,mp,pts,trb,ast,fg_pct,fg3_pct,ft_pct,mp_per_g,pts_per_g,trb_per_g,ast_per_g,ws,ws_per_48,bpm,vorp
+1,1,CHH,Larry Johnson,"University of Nevada, Las Vegas",10,707,25685,11450,5300,2298,.484,.332,.766,36.3,16.2,7.5,3.3,69.7,.130,2.4,28.3
+2,2,NJN,Kenny Anderson,Georgia Institute of Technology,14,858,25868,10789,2641,5196,.421,.346,.790,30.1,12.6,3.1,6.1,62.5,.116,0.8,18.0
+3,3,SAC,Billy Owens,Syracuse University,10,600,17619,7026,4016,1704,.481,.291,.629,29.4,11.7,6.7,2.8,28.6,.078,0.5,11.2
+4,4,DEN,Dikembe Mutombo,Georgetown University,18,1196,36791,11729,12359,1240,.518,.000,.684,30.8,9.8,10.3,1.0,117.0,.153,2.1,38.2
+5,5,MIA,Steve Smith,Michigan State University,14,942,28855,13430,3060,2922,.440,.358,.845,30.6,14.3,3.2,3.1,83.7,.139,1.4,24.4
+6,6,DAL,Doug Smith,University of Missouri,5,296,5833,2356,1234,400,.425,.083,.773,19.7,8.0,4.2,1.4,3.0,.024,-3.0,-1.5
+7,7,MIN,Luc Longley,University of New Mexico,10,567,12006,4090,2794,836,.462,.000,.760,21.2,7.2,4.9,1.5,17.5,.070,-1.5,1.5
+8,8,DEN,Mark Macon,Temple University,6,251,5018,1685,467,428,.384,.270,.735,20.0,6.7,1.9,1.7,0.1,.001,-3.2,-1.5
+9,9,ATL,Stacey Augmon,"University of Nevada, Las Vegas",15,1001,21658,7990,3216,1561,.469,.152,.728,21.6,8.0,3.2,1.6,43.8,.097,-0.2,9.8
+10,10,ORL,Bison Dele,University of Arizona,8,413,10004,4536,2564,440,.528,.143,.691,24.2,11.0,6.2,1.1,22.8,.109,-0.3,4.4
+11,11,CLE,Terrell Brandon,University of Oregon,11,724,21545,9994,2174,4407,.448,.355,.873,29.8,13.8,3.0,6.1,65.9,.147,2.4,23.7
+12,12,NYK,Greg Anthony,"University of Nevada, Las Vegas",11,757,15850,5497,1417,2997,.403,.349,.733,20.9,7.3,1.9,4.0,35.9,.109,0.0,8.1
+13,13,IND,Dale Davis,Clemson University,16,1094,29606,8706,8605,978,.530,.000,.562,27.1,8.0,7.9,0.9,86.9,.141,1.8,28.6
+14,14,SEA,Rich King,University of Nebraska,4,72,309,135,74,21,.393,.000,.662,4.3,1.9,1.0,0.3,0.2,.036,-5.8,-0.3
+15,15,ATL,Anthony Avent,Seton Hall University,6,352,6729,1958,1584,278,.403,.000,.686,19.1,5.6,4.5,0.8,0.3,.002,-4.9,-5.0
+16,16,GSW,Chris Gatling,Old Dominion University,11,700,13760,7232,3741,461,.513,.249,.660,19.7,10.3,5.3,0.7,32.1,.112,-2.1,-0.2
+17,17,GSW,Victor Alexander,Iowa State University,5,286,5755,2542,1384,257,.518,.286,.634,20.1,8.9,4.8,0.9,8.8,.073,-2.6,-0.9
+18,18,MIL,Kevin Brooks,University of Louisiana at Lafayette,3,126,1031,417,141,48,.401,.200,.859,8.2,3.3,1.1,0.4,-0.1,-.004,-7.9,-1.5
+19,19,WSB,LaBradford Smith,University of Louisville,3,183,3131,1218,271,394,.432,.298,.813,17.1,6.7,1.5,2.2,1.5,.024,-4.1,-1.6
+20,20,HOU,John Turner,Phillips University,1,42,345,117,78,12,.439,,.525,8.2,2.8,1.9,0.3,-0.1,-.021,-7.4,-0.5
+21,21,UTA,Eric Murdock,Providence College,9,508,11882,5118,1261,2467,.438,.343,.786,23.4,10.1,2.5,4.9,25.6,.103,1.1,9.4
+22,22,LAC,LeRon Ellis,Syracuse University,3,91,857,277,220,29,.433,,.613,9.4,3.0,2.4,0.3,1.2,.069,-3.2,-0.3
+23,23,ORL,Stanley Roberts,Louisiana State University,8,300,5869,2555,1549,189,.499,.000,.514,19.6,8.5,5.2,0.6,8.1,.066,-3.3,-1.9
+24,24,BOS,Rick Fox,University of North Carolina,13,930,23723,8966,3517,2649,.450,.349,.770,25.5,9.6,3.8,2.8,44.7,.090,1.0,17.6
+25,25,GSW,Shaun Vandiver,University of Colorado,,,,,,,,,,,,,,,,,
+26,26,CHI,Mark Randall,University of Kansas,4,127,883,332,160,56,.443,.154,.722,7.0,2.6,1.3,0.4,1.0,.054,-3.6,-0.4
+27,27,SAC,Pete Chilcutt,University of North Carolina,9,584,8394,2494,1935,488,.441,.381,.696,14.4,4.3,3.3,0.8,10.6,.060,-1.9,0.3
+28,28,CHH,Kevin Lynch,University of Minnesota,2,95,1143,310,120,108,.436,.333,.726,12.0,3.3,1.3,1.1,0.4,.016,-4.0,-0.6
+29,29,MIA,George Ackles,"University of Nevada, Las Vegas",,,,,,,,,,,,,,,,,
+30,30,ATL,Rodney Monroe,North Carolina State University,1,38,313,131,33,27,.368,.222,.826,8.2,3.4,0.9,0.7,-0.2,-.035,-6.9,-0.4
+31,31,SAC,Randy Brown,New Mexico State University,12,655,11533,3148,1173,1420,.417,.200,.691,17.6,4.8,1.8,2.2,11.0,.046,-2.2,-0.5
+32,32,PHO,Chad Gallagher,Creighton University,1,2,3,6,0,0,1.000,,,1.5,3.0,0.0,0.0,0.1,1.442,16.3,0.0
+33,33,DAL,Donald Hodge,Temple University,5,249,3501,1182,809,191,.437,.286,.711,14.1,4.7,3.2,0.8,1.8,.025,-4.0,-1.8
+34,34,MIN,Myron Brown,Slippery Rock University of Pennsylvania,1,4,23,9,3,6,.667,.333,,5.8,2.3,0.8,1.5,0.0,.032,-5.0,0.0
+35,35,DAL,Mike Iuzzolino,Saint Francis University,2,122,3049,1096,238,522,.457,.404,.798,25.0,9.0,2.0,4.3,3.7,.058,-2.8,-0.6
+36,36,ORL,Chris Corchiani,North Carolina State University,3,112,1313,416,129,243,.421,.269,.816,11.7,3.7,1.2,2.2,1.6,.058,-2.6,-0.2
+37,37,LAC,Elliot Perry,University of Memphis,10,549,9501,3449,742,1699,.459,.359,.783,17.3,6.3,1.4,3.1,14.0,.071,-2.2,-0.4
+38,38,LAC,Joe Wylie,University of Miami,,,,,,,,,,,,,,,,,
+39,39,CLE,Jimmy Oliver,Purdue University,5,78,856,331,80,55,.407,.340,.772,11.0,4.2,1.0,0.7,0.3,.018,-5.6,-0.8
+40,40,DET,Doug Overton,La Salle University,11,499,7275,2253,654,1038,.412,.319,.816,14.6,4.5,1.3,2.1,2.5,.016,-5.4,-6.2
+41,41,IND,Sean Green,Iona College,3,84,671,352,85,45,.386,.246,.620,8.0,4.2,1.0,0.5,-1.3,-.095,-8.3,-1.1
+42,42,SAC,Steve Hood,James Madison University,,,,,,,,,,,,,,,,,
+43,43,GSW,Lamont Strothers,Christopher Newport University,2,13,155,60,15,14,.329,.133,.714,11.9,4.6,1.2,1.1,-0.5,-.142,-8.1,-0.2
+44,44,PHI,Alvaro Teheran,University of Houston,,,,,,,,,,,,,,,,,
+45,45,MIL,Bobby Phills,Southern University and A&M College,9,467,13426,5153,1469,1246,.443,.390,.738,28.7,11.0,3.1,2.7,27.2,.097,0.5,8.6
+46,46,PHO,Richard Dumas,Oklahoma State University,3,102,2226,1080,351,111,.509,.231,.694,21.8,10.6,3.4,1.1,4.5,.097,-0.3,1.0
+47,47,HOU,Keith Hughes,Rutgers University,,,,,,,,,,,,,,,,,
+48,48,UTA,Isaac Austin,Arizona State University,9,432,8350,3285,2030,538,.446,.176,.670,19.3,7.6,4.7,1.2,9.2,.053,-2.5,-1.0
+49,49,SAS,Greg Sutton,Oral Roberts University,3,168,1946,761,153,284,.396,.361,.743,11.6,4.5,0.9,1.7,1.0,.024,-4.0,-1.0
+50,50,PHO,Joey Wright,University of Texas at Austin,,,,,,,,,,,,,,,,,
+51,51,HOU,Zan Tabak,,6,247,3607,1233,883,165,.506,.000,.525,14.6,5.0,3.6,0.7,2.4,.032,-4.4,-2.2
+52,52,LAL,Anthony Jones,Oral Roberts University,,,,,,,,,,,,,,,,,
+53,53,NJN,Von McDade,University of Wisconsin-Milwaukee,,,,,,,,,,,,,,,,,
+54,54,POR,Marcus Kennedy,Eastern Michigan University,,,,,,,,,,,,,,,,,
