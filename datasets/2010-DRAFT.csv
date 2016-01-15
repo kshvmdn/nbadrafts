@@ -1,0 +1,61 @@
+trb,trb_per_g,ws_per_48,college_name,fg3_pct,mp,g,ft_pct,player,fg_pct,vorp,seasons,bpm,ast_per_g,pts_per_g,team_id,pts,ast,pick_overall,mp_per_g,ws,ranker
+1664,4.4,.099,University of Kentucky,.314,13733,382,.788,John Wall,.431,13.8,6,2.0,8.8,17.8,WAS,6809,3345,1,36.0,28.3,1
+2204,5.2,.047,Ohio State University,.299,12178,427,.772,Evan Turner,.426,-0.5,6,-2.2,3.6,10.6,PHI,4544,1557,2,28.5,11.9,2
+2851,7.3,.130,Georgia Institute of Technology,.077,10027,393,.663,Derrick Favors,.513,7.0,6,0.7,1.0,11.3,NJN,4425,400,3,25.5,27.1,3
+1295,3.3,.034,Syracuse University,.346,9658,388,.749,Wesley Johnson,.411,1.7,6,-1.3,1.3,8.3,MIN,3208,507,4,24.9,6.8,4
+4051,10.7,.106,University of Kentucky,.263,11853,380,.732,DeMarcus Cousins,.460,11.1,6,1.7,2.6,19.5,SAC,7391,1001,5,31.2,26.2,5
+860,3.2,.060,Baylor University,.000,4564,270,.720,Ekpe Udoh,.429,1.0,5,-1.1,0.7,4.0,GSW,1072,179,6,16.9,5.7,6
+3857,9.2,.132,Georgetown University,.000,13008,417,.698,Greg Monroe,.507,13.4,6,2.1,2.3,14.4,DET,6025,941,7,31.2,35.9,7
+2273,5.4,.066,Wake Forest University,.308,9610,418,.726,Al-Farouq Aminu,.433,3.9,6,-0.4,1.1,6.8,LAC,2840,468,8,23.0,13.3,8
+1547,3.9,.109,Butler University,.367,12095,401,.811,Gordon Hayward,.438,10.4,6,1.4,3.3,14.0,UTA,5632,1337,9,30.2,27.5,9
+2057,6.2,.149,"California State University, Fresno",.366,10574,331,.830,Paul George,.425,15.7,6,3.9,3.0,16.3,IND,5379,989,10,31.9,32.8,10
+730,3.4,.119,University of Kansas,,2185,213,.769,Cole Aldrich,.504,1.1,6,0.0,0.6,3.2,NOH,688,119,11,10.3,5.4,11
+351,1.9,.013,University of Kansas,.325,2905,185,.635,Xavier Henry,.406,-2.3,5,-5.1,0.6,5.7,MEM,1050,120,12,15.7,0.8,12
+2514,6.4,.144,University of North Carolina,.000,8408,394,.557,Ed Davis,.562,6.7,6,1.2,0.8,7.1,TOR,2816,329,13,21.3,25.2,13
+1758,4.7,.106,University of Kentucky,.363,8726,372,.743,Patrick Patterson,.469,5.6,6,0.6,1.2,8.1,HOU,2997,450,14,23.5,19.4,14
+1341,5.8,.107,Virginia Commonwealth University,.000,4622,233,.550,Larry Sanders,.480,3.1,5,0.6,0.7,6.5,MIL,1516,174,15,19.8,10.3,15
+513,2.2,.057,"University of Nevada, Reno",.395,2999,235,.722,Luke Babbitt,.399,-0.8,6,-3.0,0.5,4.2,MIN,986,114,16,12.8,3.6,16
+1255,3.6,.043,,.000,5614,351,.713,Kevin Seraphin,.486,-2.7,6,-3.9,0.6,6.2,CHI,2192,205,17,16.0,5.0,17
+1263,3.6,.095,University of Kentucky,.333,9133,352,.781,Eric Bledsoe,.447,8.3,6,1.6,4.3,11.6,OKC,4090,1506,18,25.9,18.1,18
+792,2.5,.049,University of Texas at Austin,.360,8334,316,.781,Avery Bradley,.435,0.2,6,-1.9,1.5,10.9,BOS,3449,486,19,26.4,8.5,19
+495,2.3,.042,Oklahoma State University,.330,3790,215,.762,James Anderson,.411,-0.7,5,-2.7,1.2,6.0,SAS,1286,258,20,17.6,3.3,20
+19,1.1,-.089,Iowa State University,.214,121,17,.500,Craig Brackins,.265,-0.2,2,-9.1,0.5,1.8,OKC,30,9,21,7.1,-0.2,21
+157,1.5,.023,University of Memphis,.306,1444,107,.671,Elliot Williams,.423,-1.2,4,-5.3,0.9,5.0,POR,533,91,22,13.5,0.7,22
+1834,5.2,.116,Clemson University,.309,7180,351,.617,Trevor Booker,.512,3.8,6,0.1,0.9,6.5,MIN,2280,299,23,20.5,17.3,23
+131,3.4,-.001,University of Texas at Austin,.000,623,39,.667,Damion James,.415,-0.4,4,-4.3,0.7,3.8,ATL,150,26,24,16.0,0.0,24
+114,1.4,.017,University of South Florida,.095,741,80,.729,Dominique Jones,.366,-0.3,3,-3.6,1.8,3.1,MEM,246,144,25,9.3,0.3,25
+567,2.0,.087,University of Washington,.365,5042,279,.732,Quincy Pondexter,.424,1.2,5,-1.0,0.8,5.3,OKC,1466,230,26,18.1,9.1,26
+665,2.6,.039,Xavier University,.306,6348,257,.828,Jordan Crawford,.405,-0.4,4,-2.2,3.2,12.2,NJN,3132,813,27,24.7,5.2,27
+1009,2.6,.066,University of Maryland,.351,9382,391,.819,Greivis Vasquez,.420,1.4,6,-1.4,4.9,9.1,MEM,3568,1910,28,24.0,12.8,28
+126,2.5,.093,University of Kentucky,.000,542,51,.597,Daniel Orton,.485,0.0,3,-1.7,0.5,2.8,ORL,143,24,29,10.6,1.0,29
+90,1.3,.020,Marquette University,.269,591,72,.767,Lazar Hayward,.347,-0.4,3,-4.6,0.5,2.9,WAS,207,35,30,8.2,0.2,30
+14,1.8,.004,,.000,69,8,1.000,Tibor Pleiss,.450,-0.1,1,-6.3,0.3,2.5,NJN,20,2,31,8.6,0.0,31
+89,1.8,.068,University of Texas at Austin,,347,50,.545,Dexter Pittman,.450,-0.4,4,-6.0,0.2,2.3,MIA,116,9,32,6.9,0.5,32
+932,9.0,.198,Marshall University,,2319,104,.511,Hassan Whiteside,.609,1.0,4,-0.3,0.2,10.0,SAC,1040,16,33,22.3,9.6,33
+49,1.0,-.015,"University of Nevada, Reno",.400,401,47,.679,Armon Johnson,.458,-0.4,2,-6.2,1.2,3.3,POR,157,56,34,8.5,-0.1,34
+122,3.6,.087,,.380,630,34,.565,Nemanja Bjelica,.441,0.4,1,0.7,1.3,4.6,WAS,155,45,35,18.5,1.1,35
+,,,University of Mississippi,,,,,Terrico White,,,,,,,DET,,,36,,,36
+3,0.6,-.225,University of New Mexico,.000,39,5,,Darington Hobson,.154,-0.1,1,-14.1,1.2,0.8,MIL,4,6,37,7.8,-0.2,37
+1,0.2,-.314,Syracuse University,.250,24,5,.500,Andy Rautins,.429,-0.1,1,-16.0,0.6,1.6,NYK,8,3,38,4.8,-0.2,38
+1092,4.3,.084,Stanford University,.332,6010,255,.666,Landry Fields,.473,2.8,5,-0.1,1.6,6.8,NYK,1731,419,39,23.6,10.5,39
+1291,4.2,.074,University of Cincinnati,.301,7697,304,.670,Lance Stephenson,.443,3.6,6,-0.1,3.1,8.4,IND,2547,940,40,25.3,11.9,40
+72,1.9,.089,Mississippi State University,,397,37,.518,Jarvis Varnado,.582,0.0,2,-1.9,0.4,2.9,MIA,107,16,41,10.7,0.7,41
+,,,West Virginia University,,,,,Da'Sean Butler,,,,,,,MIA,,,42,,,42
+122,1.9,.035,West Virginia University,.222,711,63,.722,Devin Ebanks,.385,-0.5,3,-4.7,0.4,3.6,LAL,224,24,43,11.3,0.5,43
+132,2.0,.168,University of Tulsa,,491,65,.852,Jerome Jordan,.528,0.2,2,0.0,0.3,2.8,MIL,180,17,44,7.6,1.7,44
+,,,,,,,,Paulao Prestes,,,,,,,MIN,,,45,,,45
+0,0.0,-.009,Georgia Institute of Technology,,2,1,,Gani Lawal,,0.0,1,-4.9,0.0,0.0,PHO,0,0,46,2.0,0.0,46
+,,,University of Oklahoma,,,,,Tiny Gallon,,,,,,,MIL,,,47,,,47
+,,,,,,,,Latavious Williams,,,,,,,MIA,,,48,,,48
+,,,,,,,,Ryan Richards,,,,,,,SAS,,,49,,,49
+61,2.3,.010,Florida State University,,181,26,.700,Solomon Alabi,.314,-0.2,2,-5.4,0.2,1.5,DAL,39,5,50,7.0,0.0,50
+,,,Louisiana Tech University,,,,,Magnum Rolle,,,,,,,OKC,,,51,,,51
+196,2.8,.048,University of Notre Dame,.241,871,70,.737,Luke Harangody,.376,-0.3,2,-3.3,0.5,3.6,BOS,253,36,52,12.4,0.9,52
+3,1.0,-.047,,.000,21,3,1.000,Pape Sy,.333,0.0,1,-6.0,0.7,2.3,ATL,7,2,53,7.0,0.0,53
+12,0.6,.065,University of Oklahoma,.333,134,19,.750,Willie Warren,.371,-0.1,1,-4.5,1.4,1.9,LAC,37,27,54,7.1,0.2,54
+633,2.6,.149,Western Kentucky University,.217,2592,244,.689,Jeremy Evans,.566,2.0,6,1.1,0.4,3.5,UTA,859,107,55,10.6,8.0,55
+25,0.8,.013,Rutgers University,,157,33,.462,Hamady N'Diaye,.467,-0.1,3,-4.9,0.1,0.6,MIN,20,3,56,4.8,0.0,56
+2,0.4,.142,Florida State University,,17,5,,Ryan Reid,.800,0.0,1,-5.5,0.0,1.6,IND,8,0,57,3.4,0.1,57
+43,1.0,.057,University of Texas at El Paso,,215,41,.739,Derrick Caracter,.485,-0.2,1,-4.9,0.2,2.0,LAL,81,7,58,5.2,0.3,58
+,,,University of Connecticut,,,,,Stanley Robinson,,,,,,,ORL,,,59,,,59
+,,,University of Miami,,,,,Dwayne Collins,,,,,,,PHO,,,60,,,60

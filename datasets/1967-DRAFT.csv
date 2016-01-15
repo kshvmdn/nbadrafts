@@ -1,0 +1,163 @@
+trb,trb_per_g,ws_per_48,college_name,fg3_pct,mp,g,ft_pct,player,fg_pct,vorp,seasons,bpm,ast_per_g,pts_per_g,team_id,pts,ast,pick_overall,mp_per_g,ws,ranker
+1860,2.7,.087,Providence College,,23590,698,.829,Jimmy Walker,.461,0.7,9,-1.7,3.5,16.7,DET,11655,2429,1,33.8,42.9,1
+2796,3.0,.125,Winston-Salem State University,,29636,926,.807,Earl Monroe,.464,7.1,13,0.0,3.9,18.8,BAL,17454,3594,2,32.0,77.4,2
+2087,3.1,.097,Western Kentucky University,,17624,681,.792,Clem Haskins,.449,0.5,9,-1.4,3.5,12.8,CHI,8743,2382,3,25.9,35.8,3
+114,2.0,-.003,St. John's University,,398,57,.581,Sonny Dove,.394,,2,,0.4,3.1,DET,174,23,4,7.0,0.0,4
+4830,5.9,.176,Southern Illinois University,.000,30965,825,.786,Walt Frazier,.490,20.9,13,4.1,6.1,18.9,NYK,15581,5040,5,37.5,113.5,5
+1283,5.0,.065,Oklahoma Baptist University,,5348,257,.702,Al Tucker,.453,,4,,0.9,9.5,SEA,2431,230,6,20.8,7.2,6
+855,1.6,.026,University of Kentucky,,8187,528,.705,Pat Riley,.414,-3.2,9,-6.0,1.7,7.4,SDR,3906,913,7,15.5,4.5,7
+52,1.2,.107,Seattle University,,187,43,.711,Tom Workman,.432,,3,,0.1,2.5,STL,109,5,8,4.3,0.4,8
+34,3.1,-.002,University of New Mexico,,126,11,.565,Mel Daniels,.371,-0.1,9,-4.2,0.5,3.5,CIN,39,6,9,11.5,0.0,9
+427,3.8,.028,University of Texas at El Paso,,1244,112,.644,Dave Lattin,.400,,2,,0.6,4.5,SFW,506,62,10,11.1,0.7,10
+118,1.7,.043,New York University,,889,70,.657,Mal Graham,.398,,2,,1.1,4.7,BOS,327,75,11,12.7,0.8,11
+68,2.5,-.001,Brigham Young University,,177,27,.647,Craig Raymond,.344,,1,,0.3,2.0,PHI,55,8,12,6.6,0.0,12
+272,1.9,.115,Grambling State University,,2590,140,.738,Jimmy Jones,.505,1.0,10,-0.4,2.0,6.4,BAL,901,283,13,18.5,6.2,13
+,,,Georgetown University,,,,,Steve Sullivan,,,,,,,DET,,,14,,,14
+96,1.8,.078,University of Denver,,480,53,.818,Byron Beck,.435,-0.3,10,-4.6,0.6,4.7,CHI,250,33,15,9.1,0.8,15
+,,,Clemson University,,,,,Randolph Mahaffey,,,,,,,LAL,,,16,,,16
+3454,4.3,.099,University of North Dakota,.000,14201,807,.736,Phil Jackson,.453,3.3,12,-0.5,1.1,6.7,NYK,5428,898,17,17.6,29.3,17
+,,,Drake University,,,,,Bob Netolicky,,,,,,,SDR,,,18,,,18
+3333,8.3,.092,Colorado State University,,11862,403,.686,Bob Rule,.461,-0.2,8,-3.5,1.5,17.4,SEA,7007,594,19,29.4,22.7,19
+,,,Seattle University,,,,,Malkin Strong,,,,,,,BAL,,,20,,,20
+,,,Baylor University,,,,,Darrell Hardy,,,,,,,DET,,,21,,,21
+,,,Arkansas State University,,,,,John Dickson,,,,,,,CHI,,,22,,,22
+,,,Western Kentucky University,,,,,Dwight Smith,,,,,,,LAL,,,23,,,23
+2065,7.0,.017,University of South Carolina,,7397,296,.715,Gary Gregor,.431,,5,,1.5,9.8,NYK,2905,436,24,25.0,2.6,24
+18,0.9,.032,Duke University,,216,21,.625,Bob Verga,.452,-0.2,6,-5.2,0.8,5.0,STL,104,17,25,10.3,0.1,25
+23,0.5,-.093,Oklahoma City University,,276,44,.700,Gary Gray,.366,,1,,0.6,2.4,CIN,105,26,26,6.3,-0.5,26
+1039,3.5,.057,University of Akron,,4060,294,.728,Bill Turner,.407,,6,,0.6,5.4,SFW,1597,167,27,13.8,4.8,27
+,,,Kentucky Wesleyan College,,,,,Sam Smith,,,,,,,CIN,,,28,,,28
+,,,Hiram Scott College,,,,,Richard Moore,,,,,,,SDR,,,29,,,29
+,,,University of Nebraska at Omaha,,,,,Sam Singleton,,,,,,,SEA,,,30,,,30
+216,1.1,.046,University of Oregon,,2264,188,.772,Nick Jones,.413,,4,,1.3,5.3,SDR,1003,247,31,12.0,2.1,31
+,,,University of South Carolina,,,,,Al Salvadori,,,,,,,BAL,,,32,,,32
+,,,University of Kansas,,,,,Ronald Franz,,,,,,,DET,,,33,,,33
+2,0.7,-.248,Northwestern University,,11,3,,Jim Burns,.286,,1,,0.3,1.3,CHI,4,1,34,3.7,-0.1,34
+103,1.3,.021,Saint Joseph's University,,581,81,.593,Cliff Anderson,.351,,4,,0.8,3.0,LAL,247,68,35,7.2,0.3,35
+,,,University of the Pacific,,,,,Keith Swagerty,,,,,,,NYK,,,36,,,36
+,,,University of Connecticut,,,,,Wesley Bialosuknia,,,,,,,STL,,,37,,,37
+261,1.1,.073,University of Kentucky,,4431,232,.748,Louie Dampier,.488,-1.4,12,-3.2,2.8,6.7,CIN,1553,643,38,19.1,6.7,38
+533,2.1,.012,University of North Carolina,,4303,255,.712,Bobby Lewis,.381,,4,,2.2,5.8,SFW,1481,555,39,16.9,1.1,39
+,,,University of Texas at El Paso,,,,,Neville Shedd,,,,,,,BOS,,,40,,,40
+,,,Northwestern University,,,,,Ronald Kozlicki,,,,,,,SDR,,,41,,,41
+,,,University of Michigan,,,,,Craig Dill,,,,,,,SDR,,,42,,,42
+,,,Utah State University,,,,,Larry Bunce,,,,,,,SEA,,,43,,,43
+,,,Providence College,,,,,Dexter Westbrook,,,,,,,BAL,,,44,,,44
+57,0.8,.111,Wake Forest University,,436,71,.753,Paul Long,.464,,4,,0.8,3.9,DET,274,54,45,6.1,1.0,45
+,,,Jacksonville University,,,,,Dick Pruet,,,,,,,CHI,,,46,,,46
+,,,Bradley University,,,,,Joe Allen,,,,,,,LAL,,,47,,,47
+,,,Long Island University,,,,,Barry Leibowitz,,,,,,,NYK,,,48,,,48
+,,,University of Miami,,,,,Mike Wittman,,,,,,,STL,,,49,,,49
+,,,Cheyney University of Pennsylvania,,,,,Trooper Washington,,,,,,,CIN,,,50,,,50
+68,1.4,-.035,"University of California, Los Angeles",,428,49,.667,Mike Lynn,.329,,2,,0.6,2.6,SFW,126,31,51,8.7,-0.3,51
+,,,Kentucky Wesleyan College,,,,,Mike Redd,,,,,,,BOS,,,52,,,52
+11,1.8,.078,Winston-Salem State University,,52,6,.200,James Reid,.500,,1,,0.5,3.5,PHI,21,3,53,8.7,0.1,53
+123,1.8,-.101,Seattle University,,638,67,.583,Plummer Lott,.294,,2,,0.6,2.2,SEA,147,43,54,9.5,-1.3,54
+,,,Murray State University,,,,,Herb McPherson,,,,,,,SDR,,,55,,,55
+,,,Duke University,,,,,Bob Riedy,,,,,,,BAL,,,56,,,56
+,,,Syracuse University,,,,,Vaughn Harper,,,,,,,DET,,,57,,,57
+,,,Dillard University,,,,,Marlbert Pradd,,,,,,,CHI,,,58,,,58
+,,,University of Florida,,,,,Gary Keller,,,,,,,LAL,,,59,,,59
+,,,West Virginia University,,,,,Bob Benfield,,,,,,,NYK,,,60,,,60
+,,,Canisius College,,,,,John Morrison,,,,,,,STL,,,61,,,61
+,,,American International College,,,,,Frank Stronczek,,,,,,,CIN,,,62,,,62
+3034,5.2,.104,Colorado State University,,9624,586,.678,Dale Schlueter,.497,0.8,10,-0.9,1.6,5.3,SFW,3130,920,63,16.4,20.8,63
+,,,Princeton University,,,,,Ed Hummer,,,,,,,BOS,,,64,,,64
+,,,Creighton University,,,,,Tim Powers,,,,,,,PHI,,,65,,,65
+,,,Saint Louis University,,,,,Robert Cole,,,,,,,SDR,,,66,,,66
+,,,University of Washington,,,,,Gordon Harris,,,,,,,SEA,,,67,,,67
+,,,Virginia Polytechnic Institute and State University,,,,,Ron Perry,,,,,,,BAL,,,68,,,68
+,,,Rutgers University,,,,,Bobby Lloyd,,,,,,,DET,,,69,,,69
+,,,Marquette University,,,,,Bob Wolf,,,,,,,CHI,,,70,,,70
+,,,Wichita State University,,,,,Jamie Thompson,,,,,,,LAL,,,71,,,71
+,,,Indiana State University,,,,,Butch Wade,,,,,,,NYK,,,72,,,72
+,,,Bethune-Cookman College,,,,,Carl Fuller,,,,,,,STL,,,73,,,73
+,,,Southern Methodist University,,,,,Charles Beasley,,,,,,,CIN,,,74,,,74
+,,,Colorado State University,,,,,Sonny Bustion,,,,,,,SFW,,,75,,,75
+,,,"University of California, Los Angeles",,,,,Edgar Lacey,,,,,,,BOS,,,76,,,76
+,,,South Carolina State University,,,,,Frank Card,,,,,,,PHI,,,77,,,77
+,,,"University of California, Santa Barbara",,,,,Dick Kolbert,,,,,,,SEA,,,78,,,78
+,,,"University of Nevada, Las Vegas",,,,,Elbert Miller,,,,,,,SDR,,,79,,,79
+1264,4.5,.050,Jackson State University,,4013,280,.702,Ed Manning,.423,,4,,0.7,5.1,BAL,1418,200,80,14.3,4.2,80
+0,0.0,.230,St. Bonaventure University,,5,1,1.000,George Carter,.500,,1,,1.0,3.0,DET,3,1,81,5.0,0.0,81
+,,,College of Santa Fe,,,,,Leon Simon,,,,,,,CHI,,,82,,,82
+,,,Otterbein College,,,,,Don Carlos,,,,,,,LAL,,,83,,,83
+,,,St. Francis College,,,,,Gil Radday,,,,,,,NYK,,,84,,,84
+,,,Lincoln University of Missouri,,,,,Arvesta Kelly,,,,,,,STL,,,85,,,85
+,,,Georgetown University,,,,,Frank Hollendoner,,,,,,,CIN,,,86,,,86
+,,,University of the Pacific,,,,,Bob Krulish,,,,,,,SFW,,,87,,,87
+,,,Canisius College,,,,,Andrew Anderson,,,,,,,BOS,,,88,,,88
+,,,University of Virginia,,,,,Jim Conley,,,,,,,PHI,,,89,,,89
+,,,Saint Joseph's University,,,,,Al Grundy,,,,,,,SDR,,,90,,,90
+,,,Boston College,,,,,Willie Wolters,,,,,,,SEA,,,91,,,91
+,,,University of Arkansas at Pine Bluff,,,,,Robert Allen,,,,,,,BAL,,,92,,,92
+,,,University of Albuquerque,,,,,Ernie Laurent,,,,,,,CHI,,,93,,,93
+,,,University of Maryland,,,,,Jay McMillon,,,,,,,LAL,,,94,,,94
+,,,Kansas State University,,,,,Ray Smith,,,,,,,NYK,,,95,,,95
+2,0.3,-.248,North Carolina State University,,18,7,.667,Ed Biedenbach,.000,,1,,0.4,0.6,STL,4,3,96,2.6,-0.1,96
+,,,Ohio State University,,,,,Ron Sepic,,,,,,,CIN,,,97,,,97
+,,,Syracuse University,,,,,Richard Dean,,,,,,,SFW,,,98,,,98
+,,,University of Massachusetts Lowell,,,,,Henry Brown,,,,,,,BOS,,,99,,,99
+25,1.3,-.009,Tennessee Technological University,,73,19,.500,Ron Filipek,.383,,1,,0.4,2.3,PHI,43,7,100,3.8,0.0,100
+,,,Whitworth,,,,,Roderick McDonald,,,,,,,SEA,,,101,,,101
+,,,University of Missouri,,,,,Ron Coleman,,,,,,,SDR,,,102,,,102
+,,,Montana State University,,,,,Bill Gillespie,,,,,,,BAL,,,103,,,103
+,,,Wake Forest University,,,,,Jim Boshart,,,,,,,CHI,,,104,,,104
+,,,University of Houston,,,,,Don Kruze,,,,,,,LAL,,,105,,,105
+,,,New York University,,,,,Bruce Kaplan,,,,,,,NYK,,,106,,,106
+,,,Saint Michael's College,,,,,Rich Falkenbrush,,,,,,,STL,,,107,,,107
+,,,University of North Texas,,,,,Willie Davis,,,,,,,CIN,,,108,,,108
+,,,San Francisco State University,,,,,Joe Galbo,,,,,,,SFW,,,109,,,109
+10,0.4,-.184,Northeastern University,,75,25,.692,Rick Weitzman,.261,,1,,0.3,1.3,BOS,33,8,110,3.0,-0.3,110
+,,,Niagara University,,,,,Butch Ervin,,,,,,,PHI,,,111,,,111
+,,,Murray State University,,,,,John Duncan,,,,,,,SDR,,,112,,,112
+,,,Gonzaga University,,,,,Gary Lechman,,,,,,,SEA,,,113,,,113
+,,,Michigan State University,,,,,Bubba Smith,,,,,,,BAL,,,114,,,114
+,,,University of New Haven,,,,,Jim Andros,,,,,,,CHI,,,115,,,115
+,,,Kansas State University,,,,,Nick Pino,,,,,,,LAL,,,116,,,116
+,,,University of North Carolina,,,,,Mark Merkin,,,,,,,NYK,,,117,,,117
+,,,University of Cincinnati,,,,,Ken Callaway,,,,,,,CIN,,,118,,,118
+,,,University of New Mexico,,,,,Bill Morgan,,,,,,,SFW,,,119,,,119
+,,,University of Maryland,,,,,Joe Harrington,,,,,,,BOS,,,120,,,120
+,,,North Carolina Agricultural and Technical State University,,,,,Ted Campbell,,,,,,,PHI,,,121,,,121
+,,,Texas A&M University,,,,,Randy Matson,,,,,,,SEA,,,122,,,122
+,,,Alliant International University,,,,,Al Razutis,,,,,,,SDR,,,123,,,123
+,,,University of Texas-Pan American,,,,,Tony Eaton,,,,,,,BAL,,,124,,,124
+,,,Colgate University,,,,,George Dalzell,,,,,,,DET,,,125,,,125
+,,,University of Tennessee,,,,,Ron Widby,,,,,,,CHI,,,126,,,126
+,,,University of New Mexico,,,,,Ben Monroe,,,,,,,LAL,,,127,,,127
+1830,2.9,.100,Providence College,,15890,639,.744,Mike Riordan,.470,2.0,9,-0.9,2.4,9.9,NYK,6334,1524,128,24.9,33.2,128
+,,,Villanova University,,,,,Frank Gadjunas,,,,,,,CIN,,,129,,,129
+,,,University of the Pacific,,,,,David Fox,,,,,,,SFW,,,130,,,130
+,,,La Salle University,,,,,Hubie Marshall,,,,,,,PHI,,,131,,,131
+,,,New Mexico Highlands University,,,,,Martin Navia,,,,,,,SDR,,,132,,,132
+,,,University of North Texas,,,,,Rubin Russell,,,,,,,SEA,,,133,,,133
+,,,University of South Carolina,,,,,Lyn Burkholder,,,,,,,BAL,,,134,,,134
+,,,Michigan State University,,,,,Matthew Aitch,,,,,,,DET,,,135,,,135
+,,,Montana State University,,,,,Tom Storm,,,,,,,CHI,,,136,,,136
+,,,University of Iowa,,,,,Gary Jones,,,,,,,LAL,,,137,,,137
+,,,University of Richmond,,,,,John Moates,,,,,,,CIN,,,138,,,138
+,,,North Carolina Agricultural and Technical State University,,,,,George Mack,,,,,,,PHI,,,139,,,139
+,,,Ohio University,,,,,John Schroeder,,,,,,,SEA,,,140,,,140
+,,,Manhattan College,,,,,Bob Chlupsa,,,,,,,SDR,,,141,,,141
+,,,Pennsylvania State University,,,,,Paul Mickey,,,,,,,BAL,,,142,,,142
+,,,Erskine College,,,,,Don Whitehead,,,,,,,CHI,,,143,,,143
+,,,Northwood Institute,,,,,Jerry Pettway,,,,,,,CIN,,,144,,,144
+,,,University of Minnesota Morris,,,,,Wayne Brabender,,,,,,,PHI,,,145,,,145
+,,,South Carolina State University,,,,,John Tolbert,,,,,,,SDR,,,146,,,146
+,,,Clemson University,,,,,Jim Sutherland,,,,,,,SEA,,,147,,,147
+,,,Louisiana Tech University,,,,,Rich Peek,,,,,,,BAL,,,148,,,148
+,,,Lawrence Technological University,,,,,Jim Garza,,,,,,,CHI,,,149,,,149
+,,,Midwestern State University,,,,,Earl Beechum,,,,,,,CIN,,,150,,,150
+,,,University of Tulsa,,,,,Sherman Dillard,,,,,,,PHI,,,151,,,151
+,,,University of Nebraska,,,,,Willie Campbell,,,,,,,SEA,,,152,,,152
+,,,University of Oklahoma,,,,,Gary Williams,,,,,,,BAL,,,153,,,153
+,,,University of Illinois at Urbana-Champaign,,,,,Jimmy Dawson,,,,,,,CHI,,,154,,,154
+,,,Morningside College,,,,,John Vermelyea,,,,,,,CIN,,,155,,,155
+,,,Western Kentucky University,,,,,Wayne Chapman,,,,,,,PHI,,,156,,,156
+,,,Oregon State University,,,,,Loy Peterson,,,,,,,BAL,,,157,,,157
+,,,Edinboro University of Pennsylvania,,,,,Darryll Meachem,,,,,,,CIN,,,158,,,158
+,,,Oklahoma State University,,,,,Gary Paulk,,,,,,,PHI,,,159,,,159
+,,,Vanderbilt University,,,,,Jerry Southwood,,,,,,,BAL,,,160,,,160
+,,,University of Washington,,,,,George Spencer,,,,,,,BAL,,,161,,,161
+5,1.3,-.003,University of Cincinnati,,14,4,,Roland West,.400,,1,,0.0,1.0,BAL,4,0,162,3.5,0.0,162

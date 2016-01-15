@@ -1,0 +1,55 @@
+trb,trb_per_g,ws_per_48,college_name,fg3_pct,mp,g,ft_pct,player,fg_pct,vorp,seasons,bpm,ast_per_g,pts_per_g,team_id,pts,ast,pick_overall,mp_per_g,ws,ranker
+3170,6.7,.090,University of Louisville,.050,11593,474,.689,Pervis Ellison,.510,7.4,11,0.5,1.5,9.5,SAC,4494,691,1,24.5,21.8,1
+2550,2.8,.092,Duke University,.393,18133,917,.840,Danny Ferry,.446,5.0,13,-0.9,1.3,7.0,LAC,6439,1185,2,19.8,34.8,2
+3204,4.3,.109,University of Arizona,.375,24502,742,.799,Sean Elliott,.465,16.1,12,0.6,2.6,14.2,SAS,10544,1897,3,33.0,55.7,3
+4387,4.4,.122,University of Michigan,.400,34985,1000,.846,Glen Rice,.456,22.1,15,0.5,2.1,18.3,MIA,18336,2097,4,35.0,88.7,4
+3381,5.0,.070,University of North Carolina,.135,15370,672,.716,J.R. Reid,.472,-0.2,11,-2.0,1.0,8.5,CHH,5680,639,5,22.9,22.5,5
+1460,3.3,.071,University of Oklahoma,.235,7406,438,.707,Stacey King,.478,-1.9,8,-3.0,0.9,6.4,CHI,2819,387,6,16.9,10.9,6
+2342,3.1,.068,Florida State University,.358,17429,766,.810,George McCloud,.402,5.6,12,-0.7,2.3,9.0,IND,6925,1769,7,22.8,24.6,7
+1366,4.9,.017,Louisiana Tech University,.193,5382,281,.707,Randy White,.401,-3.3,5,-4.4,0.6,7.4,DAL,2083,175,8,19.2,1.9,8
+2243,3.3,.068,Georgia Institute of Technology,.000,10419,687,.691,Tom Hammonds,.480,-6.0,12,-4.3,0.6,5.3,WSB,3617,378,9,15.2,14.7,9
+1807,2.8,.066,"University of California, Los Angeles",.329,19399,639,.652,Pooh Richardson,.444,5.5,10,-0.9,6.5,11.1,MIN,7083,4180,10,30.4,26.7,10
+4064,5.1,.106,University of Illinois at Urbana-Champaign,.356,24922,800,.667,Nick Anderson,.446,23.5,13,1.7,2.6,14.4,ORL,11529,2087,11,31.2,55.3,11
+3659,4.1,.111,University of Oklahoma,.336,31026,889,.736,Mookie Blaylock,.409,38.9,13,3.0,6.7,13.5,NJN,11962,5972,12,34.9,71.8,12
+212,1.5,.049,Brigham Young University,.150,1328,141,.835,Michael Smith,.474,-0.7,3,-4.1,1.0,5.0,BOS,698,142,13,9.4,1.4,13
+2855,3.3,.133,University of Texas at El Paso,.355,30626,867,.782,Tim Hardaway,.431,34.6,13,2.5,8.2,17.7,GSW,15373,7095,14,35.3,85.0,14
+505,2.1,.063,Stanford University,.244,4240,237,.789,Todd Lichti,.460,-0.8,5,-2.7,1.4,7.9,DEN,1870,325,15,17.9,5.6,15
+1609,1.9,.122,Boston College,.411,19480,850,.858,Dana Barros,.460,10.6,14,0.2,3.3,10.5,SEA,8901,2837,16,22.9,49.6,16
+8834,8.4,.147,Trinity Valley Community College,.277,29293,1051,.741,Shawn Kemp,.488,27.3,14,1.7,1.6,14.6,SEA,15347,1704,17,27.9,89.5,17
+1321,1.8,.121,University of Iowa,.425,17790,747,.856,B.J. Armstrong,.477,1.9,11,-1.6,3.3,9.8,CHI,7320,2479,18,23.8,45.0,18
+170,1.2,-.005,University of Louisville,.293,1167,144,.859,Kenny Payne,.410,-1.3,4,-6.6,0.4,3.5,PHI,508,61,19,8.1,-0.1,19
+103,1.9,-.008,Georgia Southern University,,462,55,.609,Jeff Sanders,.395,-0.4,4,-5.2,0.5,2.0,CHI,112,25,20,8.4,-0.1,20
+2376,3.4,.063,East Carolina University,.335,18409,704,.779,Blue Edwards,.475,5.7,10,-0.8,2.0,10.8,UTA,7585,1409,21,26.1,24.2,21
+123,1.4,.121,University of Missouri,.350,849,87,.722,Byron Irvin,.471,0.2,3,-1.0,0.8,5.2,POR,451,73,22,9.8,2.1,22
+32,1.1,-.122,University of Iowa,.000,194,29,.594,Roy Marble,.257,-0.3,2,-8.5,0.4,1.9,ATL,55,12,23,6.7,-0.5,23
+428,3.7,.033,University of Arizona,.000,1499,116,.524,Anthony Cook,.439,-0.8,4,-4.2,0.3,3.6,PHO,418,34,24,12.9,1.0,24
+161,1.3,.013,Seton Hall University,.224,1879,128,.787,John Morton,.386,-1.3,3,-4.7,2.7,4.8,CLE,609,342,25,14.7,0.5,25
+9326,8.2,.137,,.235,33838,1134,.692,Vlade Divac,.495,45.3,16,3.3,3.1,11.8,LAL,13398,3541,26,29.8,96.4,26
+327,2.4,.098,University of Illinois at Urbana-Champaign,.133,1795,134,.725,Kenny Battle,.504,0.9,4,-0.1,0.8,4.7,DET,627,106,27,13.4,3.7,27
+1672,2.2,.075,Syracuse University,.267,21148,765,.678,Sherman Douglas,.484,2.6,12,-1.5,5.9,11.0,MIA,8425,4536,28,27.6,32.9,28
+26,1.3,-.015,University of Tennessee,,109,20,.688,Dyron Nix,.359,-0.2,1,-8.3,0.3,2.0,CHH,39,5,29,5.5,0.0,29
+95,1.1,-.004,Vanderbilt University,.263,595,89,.596,Frank Kornet,.369,-0.6,2,-6.0,0.3,1.9,MIL,171,30,30,6.7,0.0,30
+290,2.0,.038,Murray State University,.282,2685,143,.694,Jeff Martin,.417,-1.2,2,-3.8,0.8,6.7,LAC,956,109,31,18.8,2.1,31
+26,1.6,.057,DePaul University,,128,16,.389,Stanley Brundy,.500,0.0,1,-2.5,0.2,2.3,NJN,37,3,32,8.0,0.2,32
+2,0.5,.022,Indiana University,.000,26,4,.333,Jay Edwards,.429,0.0,1,-5.1,1.0,1.8,LAC,7,4,33,6.5,0.0,33
+34,1.1,.029,University of Missouri,.000,149,31,.500,Gary Leonard,.459,-0.2,3,-6.3,0.1,1.4,MIN,44,2,34,4.8,0.1,34
+108,1.7,.037,Colorado State University,.192,930,64,.667,Pat Durham,.469,-0.2,2,-2.8,0.9,5.0,DAL,323,57,35,14.5,0.7,35
+6306,4.6,.101,University of Connecticut,.356,42561,1380,.689,Clifford Robinson,.438,28.7,18,0.7,2.2,14.2,POR,19591,3094,36,30.8,89.7,36
+621,4.2,.142,University of Alabama,,2143,149,.722,Michael Ansley,.513,0.5,3,-1.1,0.4,6.9,ORL,1026,67,37,14.4,6.4,37
+1670,2.5,.051,Villanova University,.191,16649,676,.801,Doug West,.481,-2.2,12,-2.5,1.9,9.6,MIN,6477,1292,38,24.6,17.7,38
+108,2.4,.050,University of Iowa,.000,374,45,.609,Ed Horton,.494,-0.2,1,-4.1,0.4,4.5,WSB,202,19,39,8.3,0.4,39
+1883,8.4,.094,,.000,7308,224,.735,Dino Radja,.497,2.3,4,-0.7,1.6,16.7,BOS,3733,356,40,32.6,14.3,40
+120,2.9,.052,University of Tennessee,.000,412,42,.500,Doug Roth,.430,-0.2,1,-3.7,0.5,1.9,WSB,81,20,41,9.8,0.4,41
+,,,McNeese State University,,,,,Michael Cutright,,,,,,,DEN,,,42,,,42
+2148,3.1,.076,North Carolina State University,.227,11962,694,.699,Chucky Brown,.491,-3.0,13,-3.0,0.8,5.9,CLE,4125,549,43,17.2,19.0,43
+,,,University of Hawaii,,,,,Reggie Cross,,,,,,,PHI,,,44,,,44
+55,1.1,-.012,University of Evansville,.130,609,50,.667,Scott Haffner,.403,-0.7,2,-6.6,1.8,4.3,MIA,213,89,45,12.2,-0.1,45
+3,1.5,.088,Louisiana State University,,13,2,,Ricky Blanton,.429,0.0,1,2.6,0.5,3.0,PHO,6,1,46,6.5,0.0,46
+,,,University of Alabama at Birmingham,,,,,Reggie Turner,,,,,,,DEN,,,47,,,47
+,,,University of South Alabama,,,,,Junie Lewis,,,,,,,UTA,,,48,,,48
+819,2.3,.071,Oral Roberts University,.323,7202,359,.764,Haywoode Workman,.419,1.5,8,-1.2,3.9,5.5,ATL,1967,1410,49,20.1,10.7,49
+224,1.6,.027,Washington State University,.326,1530,138,.677,Brian Quinnett,.414,-0.7,3,-3.7,0.6,3.4,NYK,474,76,50,11.1,0.9,50
+20,0.6,-.106,Loyola College in Maryland,.286,153,36,.800,Mike Morrison,.338,-0.3,1,-11.0,0.3,2.0,PHO,72,11,51,4.3,-0.3,51
+248,0.9,.023,Trenton State University,.281,3350,274,.710,Greg Grant,.383,-3.0,6,-5.6,2.7,2.8,PHO,767,751,52,12.2,1.6,52
+,,,University of South Alabama,,,,,Jeff Hodge,,,,,,,DAL,,,53,,,53
+,,,University of Georgia,,,,,Toney Mack,,,,,,,PHI,,,54,,,54

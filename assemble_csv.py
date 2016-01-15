@@ -5,7 +5,8 @@ from scraper import scrape
 
 CSV_FILE = 'datasets/%s-DRAFT.csv'
 
-for year in range(2014, date.today().year):
+for year in range(1947, date.today().year):
+    print(year)
     draft = scrape(year)
     with open(CSV_FILE % year, 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=dict(draft[1]).keys())

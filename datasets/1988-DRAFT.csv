@@ -1,0 +1,76 @@
+trb,trb_per_g,ws_per_48,college_name,fg3_pct,mp,g,ft_pct,player,fg_pct,vorp,seasons,bpm,ast_per_g,pts_per_g,team_id,pts,ast,pick_overall,mp_per_g,ws,ranker
+4615,5.2,.109,University of Kansas,.206,24202,883,.729,Danny Manning,.511,21.7,15,1.6,2.3,14.0,LAC,12367,2063,1,27.4,55.1,1
+5277,6.1,.118,Marist College,.115,23100,867,.773,Rik Smits,.507,8.5,12,-0.5,1.4,14.8,IND,12871,1215,2,26.6,56.6,2
+3246,5.8,.120,University of Pittsburgh,.194,16378,564,.774,Charles Smith,.475,9.3,9,0.2,1.4,14.4,PHI,8107,798,3,29.0,40.9,3
+3544,4.7,.096,Auburn University,.306,18748,747,.739,Chris Morris,.441,16.7,11,1.5,1.6,11.0,NJN,8184,1182,4,25.1,37.4,4
+3801,3.9,.111,Kansas State University,.388,34309,976,.850,Mitch Richmond,.455,25.0,14,0.9,3.5,21.0,GSW,20497,3398,5,35.2,79.3,5
+3554,3.6,.136,Bradley University,.394,32034,983,.870,Hersey Hawkins,.461,35.7,13,2.4,2.9,14.7,LAC,14470,2860,6,32.6,90.6,6
+1911,4.0,.074,Temple University,.318,9436,481,.648,Tim Perry,.485,3.0,8,-0.7,0.9,6.8,PHO,3283,436,7,19.6,14.6,7
+1645,2.5,.061,University of Kentucky,.350,19542,666,.800,Rex Chapman,.430,2.2,12,-1.5,2.7,14.6,CHH,9731,1798,8,29.3,24.7,8
+6424,9.5,.084,Syracuse University,.188,21395,678,.679,Rony Seikaly,.484,2.2,11,-1.6,1.3,14.7,MIA,9991,860,9,31.6,37.3,9
+2082,3.8,.084,University of Georgia,.266,15974,555,.786,Willie Anderson,.471,8.3,9,0.0,3.8,12.2,SAS,6771,2105,10,28.8,27.9,10
+3918,4.9,.103,Vanderbilt University,.067,12360,792,.577,Will Perdue,.515,2.3,13,-1.3,0.8,4.7,CHI,3740,595,11,15.6,26.6,11
+3436,4.4,.085,University of Oklahoma,.267,20510,783,.709,Harvey Grant,.469,6.5,11,-0.7,1.6,9.9,WSB,7781,1219,12,26.2,36.4,12
+1294,3.0,.052,Iowa State University,.255,8277,438,.663,Jeff Grayer,.457,-1.3,9,-2.6,1.4,7.4,MIL,3257,635,13,18.9,9.0,13
+4265,4.5,.125,Central Michigan University,.358,30206,955,.741,Dan Majerle,.431,35.6,14,2.7,2.9,11.4,PHO,10925,2755,14,31.6,78.5,14
+1283,2.3,.046,University of Michigan,.278,12602,552,.776,Gary Grant,.450,0.4,13,-1.9,5.5,7.9,SEA,4368,3013,15,22.8,12.0,15
+364,2.4,.057,University of Missouri,.242,2240,154,.755,Derrick Chievous,.443,-1.1,3,-4.0,0.7,7.1,HOU,1086,110,16,14.5,2.7,16
+1418,3.2,.054,University of Wyoming,.000,5448,449,.669,Eric Leckner,.508,-4.0,8,-4.9,0.5,4.1,UTA,1835,211,17,12.1,6.2,17
+197,3.1,.083,San Jose State University,.406,1406,64,.789,Ricky Berry,.450,0.1,1,-1.7,1.3,11.0,SAC,706,80,18,22.0,2.4,18
+4084,3.7,.122,DePaul University,.282,33634,1094,.721,Rod Strickland,.454,30.9,17,1.6,7.3,13.2,NYK,14463,7987,19,30.7,85.8,19
+1653,2.7,.039,DePaul University,.335,15332,604,.803,Kevin Edwards,.423,1.6,11,-1.6,2.7,10.9,MIA,6596,1609,20,25.4,12.5,20
+2992,3.8,.093,Seton Hall University,.083,13479,797,.697,Mark Bryant,.500,-0.8,15,-2.2,0.6,5.4,POR,4313,491,21,16.9,26.1,21
+551,2.3,.034,University of Southern Mississippi,.272,3318,241,.721,Randolph Keys,.425,-1.0,5,-3.2,0.8,5.2,CLE,1262,192,22,13.8,2.3,22
+1258,5.8,.034,University of Pittsburgh,.063,3215,218,.379,Jerome Lane,.441,0.7,5,-1.2,1.5,5.3,DEN,1154,322,23,14.7,2.3,23
+3183,3.4,.053,"University of California, Santa Barbara",.304,21666,943,.782,Brian Shaw,.403,3.5,14,-1.4,4.2,6.9,BOS,6547,3918,24,23.0,23.8,24
+147,1.3,-.010,University of Notre Dame,.083,1286,114,.794,David Rivers,.398,-1.0,3,-5.2,2.5,3.4,LAL,383,282,25,11.3,-0.3,25
+13,1.1,-.352,University of Houston,,34,12,.875,Rolando Ferreira,.056,-0.2,1,-24.0,0.1,0.8,POR,9,1,26,2.8,-0.2,26
+113,2.2,.022,St. John's University,.000,682,51,.725,Shelton Jones,.445,-0.4,1,-4.1,0.8,4.8,SAS,244,42,27,13.4,0.3,27
+3511,4.8,.089,University of Arkansas,.250,15344,737,.744,Andrew Lang,.470,3.5,12,-1.1,0.6,6.0,PHO,4431,424,28,20.8,28.6,28
+1810,2.3,.101,North Carolina State University,.359,19211,771,.840,Vinny Del Negro,.475,4.5,12,-1.1,3.2,9.1,SAC,7038,2484,29,24.9,40.6,29
+23,0.7,-.037,University of Wyoming,.000,74,31,.800,Fennis Dembo,.333,-0.1,1,-8.8,0.2,1.2,DET,36,5,30,2.4,-0.1,30
+23,0.6,-.083,Purdue University,.200,215,38,.792,Everette Stephens,.333,-0.3,2,-7.1,1.0,1.9,PHI,71,39,31,5.7,-0.4,31
+1448,4.8,.076,North Carolina State University,.000,4614,303,.654,Charles Shackleford,.483,-1.1,6,-3.0,0.6,5.4,NJN,1625,170,32,15.2,7.3,32
+6154,6.1,.101,Eastern Michigan University,.283,28514,1003,.761,Grant Long,.467,18.5,15,0.6,1.7,9.5,MIA,9518,1716,33,28.4,60.1,33
+1251,4.0,.056,University of Arizona,.296,5680,312,.716,Tom Tolbert,.460,-1.2,7,-2.8,0.9,6.5,CHH,2030,285,34,18.2,6.6,34
+286,5.2,.028,University of Memphis,.250,1220,55,.673,Sylvester Gray,.420,0.0,1,-2.1,2.1,8.0,MIA,440,117,35,22.2,0.7,35
+979,2.2,.058,University of New Orleans,.336,8917,441,.767,Ledell Eackles,.445,-3.2,7,-3.4,1.7,10.8,WSB,4783,740,36,20.2,10.8,36
+53,1.0,-.078,Stanford University,.000,210,55,.714,Greg Butler,.354,-0.6,3,-12.5,0.1,1.4,NYK,76,4,37,3.8,-0.3,37
+1810,5.0,.097,Indiana University,,6969,359,.677,Dean Garrett,.480,1.5,6,-1.1,0.6,4.8,PHO,1737,204,38,19.4,14.1,38
+84,1.3,-.069,University of Miami,,376,63,.628,Tito Horford,.300,-0.8,3,-10.1,0.1,1.5,MIL,93,5,39,6.0,-0.5,39
+11,1.6,-.047,Auburn University at Montgomery,,22,7,.500,Orlando Graham,.300,-0.1,1,-16.4,0.0,1.1,MIA,8,0,40,3.1,0.0,40
+1,0.5,-.175,Indiana University,.000,12,2,1.000,Keith Smart,.000,0.0,1,-14.5,1.0,1.0,GSW,2,2,41,6.0,0.0,41
+,,,University of Iowa,,,,,Jeff Moe,,,,,,,UTA,,,42,,,42
+50,2.1,-.008,Purdue University,,353,24,.578,Todd Mitchell,.443,-0.3,1,-5.5,0.9,5.1,DEN,123,21,43,14.7,-0.1,43
+34,1.6,.029,University of Oregon,.000,368,21,.750,Anthony Taylor,.397,-0.2,1,-3.8,2.0,6.9,ATL,144,43,44,17.5,0.2,44
+501,2.0,.060,University of Rhode Island,.083,4718,251,.775,Tom Garrick,.469,-0.3,4,-2.2,3.4,5.4,LAC,1359,853,45,18.8,5.9,45
+341,1.2,.034,"California State University, Long Beach",.354,3843,295,.707,Morlon Wiley,.412,-0.9,7,-3.0,2.4,3.7,DAL,1078,722,46,13.0,2.7,46
+2200,2.6,.054,University of Florida,.320,24309,855,.733,Vernon Maxwell,.398,3.5,13,-1.4,3.4,12.8,DEN,10912,2912,47,28.4,27.4,47
+1050,2.5,.132,Baylor University,.227,10403,413,.868,Micheal Williams,.464,9.2,10,1.5,5.8,11.0,DET,4533,2385,48,25.2,28.5,48
+,,,Louisiana State University,,,,,Jose Vargas,,,,,,,DAL,,,49,,,49
+1060,1.2,.140,University of Arizona,.454,16207,910,.864,Steve Kerr,.479,5.8,15,-0.6,1.8,6.0,PHO,5437,1658,50,17.8,47.2,50
+32,1.6,-.083,University of Kentucky,,110,20,.800,Rob Lock,.281,-0.2,1,-9.4,0.2,1.5,LAC,30,4,51,5.5,-0.2,51
+,,,University of Southern Mississippi,,,,,Derrick Hamilton,,,,,,,NJN,,,52,,,52
+7279,8.3,.138,Tennessee State University,.167,30605,882,.709,Anthony Mason,.509,31.7,13,2.1,3.4,10.9,POR,9656,2963,53,34.7,88.3,53
+,,,,,,,,Jorge Gonzalez,,,,,,,ATL,,,54,,,54
+,,,Grand Canyon University,,,,,Rodney Johns,,,,,,,PHO,,,55,,,55
+0,0.0,-.894,Austin Peay State University,,1,1,,Barry Sumpter,.000,0.0,1,-43.5,0.0,0.0,SAS,0,0,56,1.0,0.0,56
+,,,Louisiana State University,,,,,Herman Montenegro,,,,,,,PHI,,,57,,,57
+,,,Auburn University,,,,,Jeff Moore,,,,,,,CHH,,,58,,,58
+23,1.1,.050,University of Tampa,.250,87,21,.692,Nate Johnston,.375,-0.1,1,-6.3,0.0,2.2,MIA,46,1,59,4.1,0.1,59
+,,,University of Kentucky,,,,,Ed Davender,,,,,,,WSB,,,60,,,60
+,,,University of Louisville,,,,,Herbert Crook,,,,,,,IND,,,61,,,61
+,,,University of Maryland,,,,,Derrick Lewis,,,,,,,CHI,,,62,,,62
+,,,Auburn University,,,,,Mike Jones,,,,,,,MIL,,,63,,,63
+414,3.0,.037,University of Kentucky,.000,2157,136,.694,Winston Bennett,.425,-1.0,3,-3.9,0.9,4.8,CLE,648,120,64,15.9,1.7,64
+69,0.9,.052,Loyola Marymount University,.229,1002,80,.736,Corey Gaines,.424,-0.9,5,-5.6,3.1,3.1,SEA,248,247,65,12.5,1.1,65
+,,,University of Memphis,,,,,Dwight Boyd,,,,,,,DEN,,,66,,,66
+1,0.3,.103,University of Oklahoma,,8,3,.000,Ricky Grace,.667,0.0,1,-4.4,0.3,1.3,UTA,4,1,67,2.7,0.0,67
+,,,Baylor University,,,,,Darryl Middleton,,,,,,,ATL,,,68,,,68
+,,,Virginia Commonwealth University,,,,,Phil Stinnie,,,,,,,NYK,,,69,,,69
+,,,Florida Southern College,,,,,Jerry Johnson,,,,,,,DAL,,,70,,,70
+45,0.7,-.030,Georgia Institute of Technology,.302,625,63,.600,Craig Neal,.373,-1.0,2,-8.4,2.5,2.5,POR,158,155,71,9.9,-0.4,71
+,,,Norfolk State University,,,,,Lee Johnson,,,,,,,DET,,,72,,,72
+89,2.5,.010,Drexel University,.143,730,36,.695,Michael Anderson,.417,-0.3,1,-3.4,4.3,5.7,IND,204,153,73,20.3,0.2,73
+184,1.4,.002,"University of Nevada, Las Vegas",.242,1625,129,.746,Gerald Paddio,.421,-1.7,3,-6.2,1.0,5.5,BOS,715,134,74,12.6,0.1,74
+,,,University of Kansas,,,,,Archie Marshall,,,,,,,SAS,,,75,,,75
