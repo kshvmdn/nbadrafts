@@ -1,7 +1,7 @@
 import csv
 from datetime import date
 
-from scraper import scrape
+from scraper.draft_scraper import scrape
 
 CSV_FILE = 'datasets/%s_nbadraft.csv'
 
