@@ -1,6 +1,7 @@
-import requests
-import pprint
 import collections
+import json
+
+import requests
 from bs4 import BeautifulSoup
 
 BASE_URL = 'http://www.basketball-reference.com/draft/NBA_%s.html'
@@ -33,4 +34,5 @@ def parse(response):
 
 if __name__ == '__main__':
     y = 2015
-    scrape(y)
+    d = scrape(y)
+    print(json.dumps(d, indent=2))
