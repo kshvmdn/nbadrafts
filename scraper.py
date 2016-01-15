@@ -4,7 +4,8 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-BASE_URL = 'http://www.basketball-reference.com/draft/NBA_%s.html'
+NBA_URL = 'http://www.basketball-reference.com/draft/NBA_%s.html'
+BAA_URL = 'http://www.basketball-reference.com/draft/BAA_%s.html'
 
 
 def scrape(year):
@@ -12,7 +13,8 @@ def scrape(year):
 
 
 def request(year):
-    return requests.get(BASE_URL % year)
+    url = NBA_URL if year > 1949 else BAA_URL
+    return requests.get(url % year)
 
 
 def parse(response):
@@ -28,11 +30,14 @@ def parse(response):
         if not tr.find('th'):
             for index, td in enumerate(tr.find_all('td')):
                 player[headings[index]] = td.string
-            draft[int(player['pick_overall'])] = player
+            if not player['pick_overall']:
+                draft[int(player['ranker'])] = player
+            else:
+                draft[int(player['pick_overall'])] = player
     return draft
 
 
 if __name__ == '__main__':
-    y = 2015
+    y = 1996
     d = scrape(y)
     print(json.dumps(d, indent=2))
