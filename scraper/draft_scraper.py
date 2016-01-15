@@ -13,12 +13,12 @@ def scrape(year):
 
 
 def request(year):
-    url = NBA_URL if year > 1949 else BAA_URL
+    url = NBA_URL if year > 1949 else BAA_URL  # league name changed after 1949
     return requests.get(url % year)
 
 
 def parse(response):
-    draft = collections.OrderedDict()
+    draft = collections.OrderedDict()  # need keys ordered for the csv header
     soup = BeautifulSoup(response.text, 'html.parser').find('table', id='stats')
 
     headings = []
@@ -38,6 +38,6 @@ def parse(response):
 
 
 if __name__ == '__main__':
-    y = 1996
+    y = 1996  # PRACTICE?? WE TALKIN' BOUT PRACTICE???
     d = scrape(y)
     print(json.dumps(d, indent=2))
