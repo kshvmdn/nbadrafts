@@ -6,21 +6,11 @@ import pprint
 CSV_PATH = 'datasets/%s_nbadraft.csv'
 
 
-def plot(points, pick):
-    n, bins, patches = plt.hist(karma, 100, facecolor='green', alpha=0.75)
-
-    plt.xlabel('Karma')
-    plt.ylabel('Post count')
-    plt.gca().set_yscale('log')
-    plt.grid(True)
-
+def plot(score, draft_pick):
     plt.show()
 
-
-players = []
-
 def populate_players(year):
-    player = {}
+    players = []
     with open(CSV_PATH % str(year)) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -30,7 +20,8 @@ def populate_players(year):
             # rbd, 4
             player_details = [row['player'], row['ranker'], row['pts_per_g'], row['trb_per_g'], row['ast_per_g']]
             players.append(player_details)
+    return players
 
 
-populate_player_dict(2015)
-pprint.pprint(players)
+plyrs = populate_player_dict(2015)
+pprint.pprint(plyrs)
