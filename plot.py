@@ -11,31 +11,28 @@ def convert_empty_string(val):
     return 0 if val == '' else val
 
 
-def plot(players):
+def plot(year):
+    players = populate_player_list(year)
+
     labels = [player[0] for player in players]
     x_data = [player[1] for player in players]
     y_data = [player[2] * 1 + player[4] * 4 + player[3] * 2 for player in players]
 
-    fig, ax = plt.subplots(subplot_kw=dict(axisbg='#EEEEEE'), figsize=(20, 6))
-    ax.scatter(
-        x_data, 
-        y_data, 
-        c=np.random.random(size=len(x_data)),
-        s=150,
-        alpha=0.4,
-        cmap=plt.cm.jet)
-    ax.grid(color='white', linestyle='solid')
-    ax.set_title('NBA Draft rank vs. Score')
+    fig, ax = plt.subplots(subplot_kw=dict(axisbg='#EEEEEE'), figsize=(16, 9))
 
+    ax.scatter( x_data, y_data, s=80, alpha=0.4, marker=',', cmap=plt.cm.jet )
+    
+    ax.grid(color='white', linestyle='solid')
+    ax.set_title('%s NBA Draft rank vs. Score' % year)
+    
     ax.set_xlim([min(x_data)-2, max(x_data)+2])
     ax.set_ylim([min(y_data)-2, max(y_data)+2])
-    
-
-    plt.xticks(np.arange(min(x_data)+4, max(x_data)+1, 5.0))
-    plt.yticks(np.arange(min(y_data), max(y_data), 5.0))
 
     plt.xlabel('Draft Rank')
     plt.ylabel('Score (ppg + 2 · apg + 4 · rpg)')
+
+    plt.xticks(np.arange(min(x_data)+4, max(x_data)+1, 5.0))
+    plt.yticks(np.arange(min(y_data), max(y_data), 5.0))
 
     plt.show()
 
@@ -53,4 +50,4 @@ def populate_player_list(year):
     return players
 
 if __name__ == '__main__':
-    plot(populate_player_list(2015))
+    plot(2015)
