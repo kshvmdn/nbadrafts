@@ -12,3 +12,4 @@ for year in range(1947, date.today().year):
         dw = csv.DictWriter(outfile, header)
         dw.writeheader()
         dw.writerows([row for index, row in draft.items()])
+    print('Data processed for %s.' % year)
