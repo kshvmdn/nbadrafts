@@ -21,23 +21,29 @@ def parse(response):
     draft = collections.OrderedDict()  # need keys ordered for the csv header
     soup = BeautifulSoup(response.text, 'html.parser').find('table', id='stats')
 
-    headings = []
-    for th in soup.find('thead').find_all('tr')[1].find_all('th'):
-        headings.append(th['data-stat'])
+    headings = [
+        th['data-stat']
+        for th in soup.find('thead').find_all('tr')[1].find_all('th')
+    ]
 
     for tr in soup.find_all('tr'):
         player = collections.OrderedDict()
-        if not tr.find('th'):
-            for index, td in enumerate(tr.find_all('td')):
-                player[headings[index]] = td.string
-            if not player['pick_overall']:
-                draft[int(player['ranker'])] = player
-            else:
-                draft[int(player['pick_overall'])] = player
+
+        cols = tr.find_all('td')
+        if len(cols) == 0:
+            continue
+        if tr.find('th'):
+            cols.insert(0, tr.find('th'))
+        for index, td in enumerate(cols):
+            player[headings[index]] = td.string
+
+        rank_col = 'ranker' if not player['pick_overall'] else 'pick_overall'
+        draft[int(player[rank_col])] = player
+
     return draft
 
 
 if __name__ == '__main__':
-    y = 1996  # PRACTICE?? WE TALKIN' BOUT PRACTICE???
+    y = 1996
     d = scrape(y)
     print(json.dumps(d, indent=2))
